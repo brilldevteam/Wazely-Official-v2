@@ -4,3 +4,10 @@ out/
 .env*
 !.env.example
 *.tsbuildinfo
+
+# `.claude/skills/*` are machine-local symlinks (absolute paths) into
+# `.agents/skills/`, created by the `skills` CLI (npx skills add ...). The
+# real, portable skill content lives in .agents/skills/ and is tracked;
+# skills-lock.json records the source so `npx skills add` can regenerate
+# these symlinks on any machine.
+.claude/skills/

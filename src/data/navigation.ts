@@ -60,6 +60,7 @@ export const footerGroups = [
     links: [
       { label: "About Wazely", href: "/#about" },
       { label: "Our products", href: "/#products" },
+      { label: "Contact us", href: "/#contact" },
     ],
   },
 ] as const;

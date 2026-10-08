@@ -1,0 +1,1124 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - link [ref=e4] [cursor=pointer]:
+        - /url: https://workdo.io/dash-saas-complete-bundle/
+        - generic [ref=e5]: Bundle Sale - Save 72% on the Dash SaaS Complete Bundle
+        - generic [ref=e8]: Claim Now
+      - generic [ref=e12]:
+        - link [ref=e14] [cursor=pointer]:
+          - /url: https://workdo.io/
+          - img "WorkDo" [ref=e15]
+        - navigation [ref=e16]:
+          - list [ref=e17]:
+            - listitem [ref=e18]:
+              - link "Products" [ref=e19] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=e22]:
+              - link "Add-Ons" [ref=e23] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=e26]:
+              - link "Industry Solutions" [ref=e27] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=e30]:
+              - link "Bulk Discount" [ref=e31] [cursor=pointer]:
+                - /url: https://workdo.io/special-bulk-offer/
+            - listitem [ref=e32]:
+              - link "Services" [ref=e33] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=e36]:
+              - link "Support" [ref=e37] [cursor=pointer]:
+                - /url: javascript:void(0);
+        - generic [ref=e40]:
+          - list [ref=e41]:
+            - listitem [ref=e42]:
+              - link "0" [ref=e43] [cursor=pointer]:
+                - /url: https://workdo.io/cart/
+            - listitem
+          - link "Login" [ref=e48] [cursor=pointer]:
+            - /url: https://workdo.io/my-account/
+    - main [ref=e54]:
+      - generic [ref=e56]:
+        - img "one time payment" [ref=e57]
+        - generic [ref=e58]:
+          - generic [ref=e59]:
+            - generic [ref=e60]: Empowering 20,000+ Businesses
+            - heading "Your Business Runs Better With Rapid Growth Real Success Scale Faster Work Smarter" [level=1] [ref=e61]:
+              - text: Your Business Runs Better With
+              - generic [ref=e62]:
+                - generic [ref=e63]: Rapid Growth
+                - generic [ref=e64]: Real Success
+                - generic [ref=e65]: Scale Faster
+                - generic [ref=e66]: Work Smarter
+            - paragraph [ref=e67]: An all-in-one SaaS and ERP platform built to simplify operations, boost productivity, and support business growth at every stage.
+          - search [ref=e68]:
+            - generic [ref=e69]:
+              - generic [ref=e70]:
+                - searchbox "Search products... e.g. ERP, vCard, HRM" [ref=e75]
+                - button "Search" [ref=e76] [cursor=pointer]
+              - generic [ref=e77]:
+                - generic [ref=e78]: "Popular:"
+                - link "Dash SaaS" [ref=e79] [cursor=pointer]:
+                  - /url: https://workdo.io/dash-saas-open-source-erp-with-multi-workspace/
+                - link "ERPGo SaaS" [ref=e80] [cursor=pointer]:
+                  - /url: https://workdo.io/enterprise-management-erpgo-saas/
+                - link "vCard SaaS" [ref=e81] [cursor=pointer]:
+                  - /url: https://workdo.io/digital-business-card-builder/
+                - link "HRM" [ref=e82] [cursor=pointer]:
+                  - /url: https://workdo.io/hrm-saas-human-resource-management-software/
+                - link "Add-Ons" [ref=e83] [cursor=pointer]:
+                  - /url: https://workdo.io/shop/
+          - generic [ref=e84]:
+            - link "explore all Add-Ons" [ref=e91] [cursor=pointer]:
+              - /url: https://workdo.io/shop/
+            - link "view portfolio" [ref=e95] [cursor=pointer]:
+              - /url: https://codecanyon.net/user/workdo
+        - generic [ref=e98]:
+          - generic [ref=e100]:
+            - generic [ref=e104]: ✦
+            - generic [ref=e105]: ✦
+            - generic [ref=e106]: ✧
+            - heading "Power Up Your Business With Premium Add-Ons" [level=2] [ref=e107]
+            - paragraph [ref=e108]: Expand your Business with smart Add-Ons for payments, automation, AI tools, and more.
+            - link "Explore Add-Ons" [ref=e109] [cursor=pointer]:
+              - /url: https://workdo.io/shop/
+          - generic [ref=e112]:
+            - generic [ref=e113]:
+              - generic [ref=e114]: Featured Products
+              - link "Explore All Products" [ref=e115] [cursor=pointer]:
+                - /url: https://codecanyon.net/user/workdo/portfolio
+            - generic [ref=e118]:
+              - link [ref=e119] [cursor=pointer]:
+                - /url: https://workdo.io/dash-saas-open-source-erp-with-multi-workspace/
+                - generic [ref=e126]:
+                  - heading "Dash SaaS" [level=3] [ref=e127]
+                  - paragraph [ref=e128]: Build your own SaaS platform with white-label control and 300+ Add-Ons.
+              - link [ref=e129] [cursor=pointer]:
+                - /url: https://workdo.io/enterprise-management-erpgo-saas/
+                - generic [ref=e135]:
+                  - heading "ERPGo SaaS" [level=3] [ref=e136]
+                  - paragraph [ref=e137]: All-in-one ERP for projects, sales, Accounting, HR, and daily operations.
+              - link [ref=e138] [cursor=pointer]:
+                - /url: https://workdo.io/hrm-saas-human-resource-management-software/
+                - generic [ref=e145]:
+                  - heading "HRM SaaS" [level=3] [ref=e146]
+                  - paragraph [ref=e147]: HR Software for hiring, payroll, attendance, and team management.
+              - link [ref=e148] [cursor=pointer]:
+                - /url: https://workdo.io/digital-business-card-builder/
+                - generic [ref=e152]:
+                  - heading "vCard SaaS" [level=3] [ref=e153]
+                  - paragraph [ref=e154]: Create branded digital business cards with smart links and sharing.
+              - link [ref=e155] [cursor=pointer]:
+                - /url: https://workdo.io/ticketgo-support-ticket-system/
+                - generic [ref=e158]:
+                  - heading "TicketGo" [level=3] [ref=e159]
+                  - paragraph [ref=e160]: Handle customer support tickets faster with smart workflows.
+              - link [ref=e161] [cursor=pointer]:
+                - /url: https://workdo.io/ecommercego-saas-ecommerce-store-with-multi-theme-and-multi-store/
+                - generic [ref=e166]:
+                  - heading "eCommerceGo" [level=3] [ref=e167]
+                  - paragraph [ref=e168]: Run your online store with full product, order, and analytics control.
+      - generic [ref=e170]:
+        - generic [ref=e171]:
+          - generic [ref=e172]: why workdo
+          - heading "Why Businesses Choose WorkDo" [level=2] [ref=e173]
+          - paragraph [ref=e174]: Own, customize, and grow your platform with full source code, white-label control, lifetime updates, and expert support.
+        - generic [ref=e175]:
+          - generic [ref=e176]:
+            - heading "Full Source Code" [level=3] [ref=e182]
+            - paragraph [ref=e183]: You get clean, unencrypted code with every purchase. Modify anything, anytime — your software works exactly the way you need it to.
+          - generic [ref=e184]:
+            - heading "One-Time Payment" [level=3] [ref=e188]
+            - paragraph [ref=e189]: No monthly subscriptions or per-user fees. Pay once and own the platform for life — with all future updates included at no extra cost.
+          - generic [ref=e190]:
+            - heading "100% White-Label" [level=3] [ref=e195]
+            - paragraph [ref=e196]: Launch the platform under your own brand. Change your logo and colors — your clients will never know it's WorkDo behind the scenes.
+          - generic [ref=e197]:
+            - heading "Lifetime Free Updates" [level=3] [ref=e201]
+            - paragraph [ref=e202]: Get every new feature, security improvement, and performance update at no extra cost for as long as you own the product.
+          - generic [ref=e203]:
+            - heading "6 Months Of VIP Support" [level=3] [ref=e210]
+            - paragraph [ref=e211]: Our dedicated support team is available to help you with setup, troubleshooting, and technical questions — so you're never stuck on your own.
+          - generic [ref=e212]:
+            - heading "Step-By-Step Documentation" [level=3] [ref=e216]
+            - paragraph [ref=e217]: Clear guides and video tutorials help you use the platform confidently and easily, without technical experience.
+      - generic [ref=e219]:
+        - generic [ref=e220]:
+          - generic [ref=e221]: EXPLORE OUR PRODUCTS
+          - heading "Find the Right Software for Your Business and See It Live" [level=2] [ref=e222]
+        - generic [ref=e223]:
+          - list [ref=e225]:
+            - listitem [ref=e226]:
+              - link "Dash SaaS" [ref=e227] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=e228]:
+              - link "ERPGo SaaS" [ref=e229] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=e230]:
+              - link "ERPGo" [ref=e231] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=e232]:
+              - link "HRM SaaS" [ref=e233] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=e234]:
+              - link "HRM" [ref=e235] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=e236]:
+              - link "vCard SaaS" [ref=e237] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=e238]:
+              - link "AccountGo SaaS" [ref=e239] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=e240]:
+              - link "AccountGo" [ref=e241] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=e242]:
+              - link "BookingGo SaaS" [ref=e243] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=e244]:
+              - link "TicketGo" [ref=e245] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=e246]:
+              - link "eCommerceGo SaaS" [ref=e247] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=e248]:
+              - link "StoreGo SaaS" [ref=e249] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=e250]:
+              - link "WhatsStore SaaS" [ref=e251] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=e252]:
+              - link "POS SaaS" [ref=e253] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=e254]:
+              - link "Advocate SaaS" [ref=e255] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=e256]:
+              - link "Taskly SaaS" [ref=e257] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=e258]:
+              - link "Taskly" [ref=e259] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=e260]:
+              - link "Task SaaS" [ref=e261] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=e262]:
+              - link "Task" [ref=e263] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=e264]:
+              - link "Sales SaaS" [ref=e265] [cursor=pointer]:
+                - /url: javascript:void(0);
+          - generic [ref=e268]:
+            - generic [ref=e269]: workdo.io/dash-saas
+            - generic [ref=e281]:
+              - img "Dash SaaS Preview 1" [ref=e283]
+              - img "Dash SaaS Preview 2" [ref=e285]
+              - img "Dash SaaS Preview 3" [ref=e287]
+              - img "Dash SaaS Preview 4" [ref=e289]
+              - img "Dash SaaS Preview 5" [ref=e291]
+              - img "Dash SaaS Preview 6" [ref=e293]
+              - img "Dash SaaS Preview 7" [ref=e295]
+            - generic [ref=e296]:
+              - generic [ref=e297]:
+                - heading "Dash SaaS" [level=3] [ref=e298]
+                - paragraph [ref=e299]: Run your whole business with 300+ Add-Ons.
+              - generic [ref=e300]:
+                - link "Buy from Envato" [ref=e301] [cursor=pointer]:
+                  - /url: https://codecanyon.net/item/workdo-dash-saas-open-source-erp-with-multiworkspace/45919116
+                - link "View Live Demo" [ref=e307] [cursor=pointer]:
+                  - /url: https://dash-demo.workdo.io/login/
+      - generic [ref=e312]:
+        - generic [ref=e313]:
+          - generic [ref=e314]: MARKETPLACE
+          - heading "Upgrade Your Workspace with Add-Ons" [level=2] [ref=e315]
+          - paragraph [ref=e316]: Explore feature-rich Add-Ons that help you customize, automate, and grow your business faster.
+        - generic [ref=e317]:
+          - list [ref=e319]:
+            - listitem [ref=e320]:
+              - link "Dash SaaS" [ref=e321] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=e325]:
+              - link "eCommerceGo SaaS" [ref=e326] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=e331]:
+              - link "BookingGo SaaS" [ref=e332] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=e335]:
+              - link "vCard SaaS" [ref=e336] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=e339]:
+              - link "TicketGo" [ref=e340] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=e342]:
+              - link "Mobile Apps" [ref=e343] [cursor=pointer]:
+                - /url: javascript:void(0);
+          - generic [ref=e348]:
+            - generic [ref=e349]:
+              - generic [ref=e350]:
+                - generic [ref=e351]: Dash SaaS
+                - heading "Complete Business Operations Marketplace" [level=3] [ref=e352]
+                - paragraph [ref=e353]: Powerful SaaS Add-Ons built to automate operations, streamline workflows, enable integrations, and scale business management efficiently.
+                - list [ref=e354]:
+                  - listitem [ref=e355]:
+                    - generic [ref=e359]: Workflow Automation
+                  - listitem [ref=e360]:
+                    - generic [ref=e364]: Payment Integrations
+                  - listitem [ref=e365]:
+                    - generic [ref=e369]: Modular Scalability
+              - link [ref=e370] [cursor=pointer]:
+                - /url: https://workdo.io/dash-saas-complete-bundle/
+                - generic [ref=e371]:
+                  - img "🔥" [ref=e372]
+                  - text: Dash SaaS Bundle Get 323 Premium Add-Ons in One Complete Bundle
+              - generic [ref=e375]:
+                - link "Buy from Envato" [ref=e376] [cursor=pointer]:
+                  - /url: https://codecanyon.net/item/workdo-dash-saas-open-source-erp-with-multiworkspace/45919116
+                - link "Live Demo" [ref=e381] [cursor=pointer]:
+                  - /url: https://dash-demo.workdo.io/login/
+                - link "view All Add-Ons" [ref=e384] [cursor=pointer]:
+                  - /url: https://workdo.io/product-category/dash-saas-add-ons/
+            - generic [ref=e389]:
+              - generic [ref=e390]:
+                - group "1 / 10" [ref=e391]:
+                  - listitem [ref=e392]:
+                    - generic [ref=e393]:
+                      - img "Custom Field – Dash SaaS Add-On" [ref=e396]
+                      - generic [ref=e397]:
+                        - generic [ref=e398]:
+                          - generic [ref=e399]: Dash SaaS Add-Ons
+                          - link "Custom Field – Dash SaaS Add-On" [ref=e401] [cursor=pointer]:
+                            - /url: https://workdo.io/product/dash-saas-add-ons/custom-field-dash-saas-add-on/
+                          - generic [ref=e402]:
+                            - generic [ref=e403]: (21)
+                            - generic [ref=e416]: (329 Sales)
+                        - generic [ref=e417]:
+                          - generic [ref=e418]: $39
+                          - link "Add To Cart" [ref=e422] [cursor=pointer]:
+                            - /url: javascript:void(0);
+                - group "2 / 10" [ref=e427]:
+                  - listitem [ref=e428]:
+                    - generic [ref=e429]:
+                      - img "Sales – Dash SaaS Add-On" [ref=e432]
+                      - generic [ref=e433]:
+                        - generic [ref=e434]:
+                          - generic [ref=e435]: Dash SaaS Add-Ons
+                          - link "Sales – Dash SaaS Add-On" [ref=e437] [cursor=pointer]:
+                            - /url: https://workdo.io/product/dash-saas-add-ons/sales-dash-saas-add-on/
+                          - generic [ref=e438]:
+                            - generic [ref=e439]: (20)
+                            - generic [ref=e452]: (307 Sales)
+                        - generic [ref=e453]:
+                          - generic [ref=e454]: $39
+                          - link "Add To Cart" [ref=e458] [cursor=pointer]:
+                            - /url: javascript:void(0);
+                - group "3 / 10" [ref=e463]:
+                  - listitem [ref=e464]:
+                    - generic [ref=e465]:
+                      - img "Double Entry – Dash SaaS Add-On" [ref=e468]
+                      - generic [ref=e469]:
+                        - generic [ref=e470]:
+                          - generic [ref=e471]: Dash SaaS Add-Ons
+                          - link "Double Entry – Dash SaaS Add-On" [ref=e473] [cursor=pointer]:
+                            - /url: https://workdo.io/product/dash-saas-add-ons/double-entry-dash-saas-add-on/
+                          - generic [ref=e474]:
+                            - generic [ref=e475]: (21)
+                            - generic [ref=e488]: (283 Sales)
+                        - generic [ref=e489]:
+                          - generic [ref=e490]: $39
+                          - link "Add To Cart" [ref=e494] [cursor=pointer]:
+                            - /url: javascript:void(0);
+                - group "4 / 10" [ref=e499]:
+                  - listitem [ref=e500]:
+                    - generic [ref=e501]:
+                      - img "Contract – Dash SaaS Add-On" [ref=e504]
+                      - generic [ref=e505]:
+                        - generic [ref=e506]:
+                          - generic [ref=e507]: Dash SaaS Add-Ons
+                          - link "Contract – Dash SaaS Add-On" [ref=e509] [cursor=pointer]:
+                            - /url: https://workdo.io/product/dash-saas-add-ons/contract-dash-saas-add-on/
+                          - generic [ref=e510]:
+                            - generic [ref=e511]: (15)
+                            - generic [ref=e524]: (234 Sales)
+                        - generic [ref=e525]:
+                          - generic [ref=e526]: $39
+                          - link "Add To Cart" [ref=e530] [cursor=pointer]:
+                            - /url: javascript:void(0);
+                - group "5 / 10" [ref=e535]:
+                  - listitem [ref=e536]:
+                    - generic [ref=e537]:
+                      - img "Form Builder – Dash SaaS Add-On" [ref=e540]
+                      - generic [ref=e541]:
+                        - generic [ref=e542]:
+                          - generic [ref=e543]: Dash SaaS Add-Ons
+                          - link "Form Builder – Dash SaaS Add-On" [ref=e545] [cursor=pointer]:
+                            - /url: https://workdo.io/product/dash-saas-add-ons/form-builder-dash-saas-add-on/
+                          - generic [ref=e546]:
+                            - generic [ref=e547]: (15)
+                            - generic [ref=e560]: (222 Sales)
+                        - generic [ref=e561]:
+                          - generic [ref=e562]: $49
+                          - link "Add To Cart" [ref=e566] [cursor=pointer]:
+                            - /url: javascript:void(0);
+                - group "6 / 10" [ref=e571]:
+                  - listitem [ref=e572]:
+                    - generic [ref=e573]:
+                      - img "Inventory – Dash SaaS Add-On" [ref=e576]
+                      - generic [ref=e577]:
+                        - generic [ref=e578]:
+                          - generic [ref=e579]: Dash SaaS Add-Ons
+                          - link "Inventory – Dash SaaS Add-On" [ref=e581] [cursor=pointer]:
+                            - /url: https://workdo.io/product/dash-saas-add-ons/inventory-dash-saas-add-on/
+                          - generic [ref=e582]:
+                            - generic [ref=e583]: (14)
+                            - generic [ref=e596]: (209 Sales)
+                        - generic [ref=e597]:
+                          - generic [ref=e598]: $39
+                          - link "Add To Cart" [ref=e602] [cursor=pointer]:
+                            - /url: javascript:void(0);
+                - group "7 / 10" [ref=e607]:
+                  - listitem [ref=e608]:
+                    - generic [ref=e609]:
+                      - img "Recruitment – Dash SaaS Add-On" [ref=e612]
+                      - generic [ref=e613]:
+                        - generic [ref=e614]:
+                          - generic [ref=e615]: Dash SaaS Add-Ons
+                          - link "Recruitment – Dash SaaS Add-On" [ref=e617] [cursor=pointer]:
+                            - /url: https://workdo.io/product/dash-saas-add-ons/recruitment-dash-saas-add-on/
+                          - generic [ref=e618]:
+                            - generic [ref=e619]: (10)
+                            - generic [ref=e632]: (204 Sales)
+                        - generic [ref=e633]:
+                          - generic [ref=e634]: $49
+                          - link "Add To Cart" [ref=e638] [cursor=pointer]:
+                            - /url: javascript:void(0);
+                - group "8 / 10" [ref=e643]:
+                  - listitem [ref=e644]:
+                    - generic [ref=e645]:
+                      - img "Workflow Automation – Dash SaaS Add-On" [ref=e648]
+                      - generic [ref=e649]:
+                        - generic [ref=e650]:
+                          - generic [ref=e651]: Dash SaaS Add-Ons
+                          - link "Workflow Automation – Dash SaaS Add-On" [ref=e653] [cursor=pointer]:
+                            - /url: https://workdo.io/product/dash-saas-add-ons/workflow-automation-dash-saas-add-on/
+                          - generic [ref=e654]:
+                            - generic [ref=e655]: (14)
+                            - generic [ref=e668]: (202 Sales)
+                        - generic [ref=e669]:
+                          - generic [ref=e670]: $69
+                          - link "Add To Cart" [ref=e674] [cursor=pointer]:
+                            - /url: javascript:void(0);
+                - group "9 / 10" [ref=e679]:
+                  - listitem [ref=e680]:
+                    - generic [ref=e681]:
+                      - img "Assets – Dash SaaS Add-On" [ref=e684]
+                      - generic [ref=e685]:
+                        - generic [ref=e686]:
+                          - generic [ref=e687]: Dash SaaS Add-Ons
+                          - link "Assets – Dash SaaS Add-On" [ref=e689] [cursor=pointer]:
+                            - /url: https://workdo.io/product/dash-saas-add-ons/assets-dash-saas-add-on/
+                          - generic [ref=e690]:
+                            - generic [ref=e691]: (14)
+                            - generic [ref=e704]: (201 Sales)
+                        - generic [ref=e705]:
+                          - generic [ref=e706]: $49
+                          - link "Add To Cart" [ref=e710] [cursor=pointer]:
+                            - /url: javascript:void(0);
+                - group "10 / 10" [ref=e715]:
+                  - listitem [ref=e716]:
+                    - generic [ref=e717]:
+                      - img "Support Ticket – Dash SaaS Add-On" [ref=e720]
+                      - generic [ref=e721]:
+                        - generic [ref=e722]:
+                          - generic [ref=e723]: Dash SaaS Add-Ons
+                          - link "Support Ticket – Dash SaaS Add-On" [ref=e725] [cursor=pointer]:
+                            - /url: https://workdo.io/product/dash-saas-add-ons/support-ticket-dash-saas-add-on/
+                          - generic [ref=e726]:
+                            - generic [ref=e727]: (12)
+                            - generic [ref=e740]: (201 Sales)
+                        - generic [ref=e741]:
+                          - generic [ref=e742]: $39
+                          - link "Add To Cart" [ref=e746] [cursor=pointer]:
+                            - /url: javascript:void(0);
+              - generic:
+                - button "Previous slide" [ref=e751] [cursor=pointer]
+                - button "Next slide" [ref=e754] [cursor=pointer]
+      - generic [ref=e758]:
+        - generic [ref=e759]:
+          - generic [ref=e760]: Industries
+          - heading "Solutions Built for Every Industry" [level=2] [ref=e761]
+          - paragraph [ref=e762]: Helping modern businesses across multiple sectors operate smarter, faster, and more efficiently.
+        - generic [ref=e763]:
+          - link [ref=e764] [cursor=pointer]:
+            - /url: https://workdo.io/dash-saas-open-source-erp-with-multi-workspace/
+            - img "Physiotherapist helping a patient at a bright clinic" [ref=e765]
+            - generic [ref=e770]:
+              - heading "Healthcare" [level=3] [ref=e771]
+              - paragraph: Bring patient records, appointments, billing, pharmacy and lab results into one system.
+          - link [ref=e772] [cursor=pointer]:
+            - /url: https://workdo.io/dash-saas-open-source-erp-with-multi-workspace/
+            - img "Teacher presenting to students in a modern classroom" [ref=e773]
+            - generic [ref=e778]:
+              - heading "Education" [level=3] [ref=e779]
+              - paragraph: Handle admissions, attendance, exams and fee collection from one dashboard.
+          - link [ref=e780] [cursor=pointer]:
+            - /url: https://workdo.io/dash-saas-open-source-erp-with-multi-workspace/
+            - img "Modern house with a swimming pool" [ref=e781]
+            - generic [ref=e786]:
+              - heading "Real Estate" [level=3] [ref=e787]
+              - paragraph: Track properties, tenants, leases and rent without spreadsheet chaos.
+          - link [ref=e788] [cursor=pointer]:
+            - /url: https://workdo.io/dash-saas-open-source-erp-with-multi-workspace/
+            - img "Hotel resort with a pool at dusk" [ref=e789]
+            - generic [ref=e794]:
+              - heading "Hospitality" [level=3] [ref=e795]
+              - paragraph: Manage room bookings, check-ins, dining and events in one place.
+          - link [ref=e796] [cursor=pointer]:
+            - /url: https://workdo.io/dash-saas-open-source-erp-with-multi-workspace/
+            - img "Construction workers in safety gear on a building site" [ref=e797]
+            - generic [ref=e802]:
+              - heading "Construction" [level=3] [ref=e803]
+              - paragraph: Keep every job site on budget, from permits to materials and inspections.
+          - link [ref=e804] [cursor=pointer]:
+            - /url: https://workdo.io/dash-saas-open-source-erp-with-multi-workspace/
+            - img "Delivery truck on an open road" [ref=e805]
+            - generic [ref=e810]:
+              - heading "Logistics & Courier" [level=3] [ref=e811]
+              - paragraph: Book, track and deliver parcels with fleet and staff in one system.
+          - link [ref=e812] [cursor=pointer]:
+            - /url: https://workdo.io/dash-saas-open-source-erp-with-multi-workspace/
+            - img "Travelers walking to a castle by a mountain lake" [ref=e813]
+            - generic [ref=e818]:
+              - heading "Travel & Tourism" [level=3] [ref=e819]
+              - paragraph: Sell tour packages, take bookings and payments, and manage travelers.
+          - link [ref=e820] [cursor=pointer]:
+            - /url: https://workdo.io/dash-saas-open-source-erp-with-multi-workspace/
+            - img "Shop owner checking an online order with packed boxes" [ref=e821]
+            - generic [ref=e826]:
+              - heading "Retail & eCommerce" [level=3] [ref=e827]
+              - paragraph: Launch your online store with themes, products, orders and payments built in.
+      - region [ref=e828]:
+        - generic [ref=e829]:
+          - generic [ref=e830]:
+            - generic [ref=e831]: How It Works
+            - heading "From Basic Idea to Live Product in Weeks" [level=2] [ref=e832]
+          - generic [aria-hidden] [ref=e833]:
+            - generic [ref=e834]:
+              - generic [ref=e836]: My idea
+              - list [ref=e837]:
+                - listitem [ref=e838]: "- Booking app for my salon"
+                - listitem [ref=e839]: "- Online payments"
+                - listitem [ref=e840]: "- Reminders for clients"
+            - generic [ref=e847]:
+              - generic [ref=e851]: Built with AI
+              - generic [ref=e852]: Checked by experts
+            - generic [ref=e857]:
+              - generic [ref=e858]:
+                - generic [ref=e859]: Your Salon
+                - generic [ref=e861]: Live
+              - generic [ref=e863]:
+                - generic [ref=e864]: Today
+                - generic [ref=e865]:
+                  - generic [ref=e866]: 10:00
+                  - generic [ref=e867]: 11:00
+                  - generic [ref=e868]: 12:00
+                  - generic [ref=e869]: 14:00
+                  - generic [ref=e870]: 15:00
+                  - generic [ref=e871]: 16:00
+                - generic [ref=e872]: Book now
+          - list [ref=e873]:
+            - listitem [ref=e874]:
+              - generic [ref=e875]: "01"
+              - heading "Share Your Idea" [level=3] [ref=e880]
+              - paragraph [ref=e881]: Share even a rough idea. We send you a clear plan, price and timeline.
+            - listitem [ref=e882]:
+              - generic [ref=e883]: "02"
+              - heading "We Build It With AI" [level=3] [ref=e888]
+              - paragraph [ref=e889]: AI helps us write the code fast, with regular progress updates for you.
+            - listitem [ref=e890]:
+              - generic [ref=e891]: "03"
+              - heading "Experts Check Everything" [level=3] [ref=e897]
+              - paragraph [ref=e898]: Our senior team checks every part, then you test it and give feedback.
+            - listitem [ref=e899]:
+              - generic [ref=e900]: "04"
+              - heading "Go Live in Weeks" [level=3] [ref=e908]
+              - paragraph [ref=e909]: Your product goes live in weeks, and we can keep maintaining it for you.
+          - generic [ref=e910]:
+            - paragraph [ref=e911]:
+              - strong [ref=e912]: Have an idea?
+              - text: Tell us about it and we will show you how fast it can go live.
+            - generic [ref=e913]:
+              - link "Request a Quote" [ref=e914] [cursor=pointer]:
+                - /url: https://workdo.io/development-request/
+              - link "Talk to Us" [ref=e915] [cursor=pointer]:
+                - /url: https://workdo.io/contact-us/
+      - generic [ref=e917]:
+        - generic [ref=e918]:
+          - generic [ref=e919]: ADD-ONS
+          - heading "Everything Your Business Needs In One Place" [level=2] [ref=e920]
+          - paragraph [ref=e921]: Access a growing collection of professional Add-Ons tailored for startups, agencies, enterprises, and SaaS platforms across every industry.
+        - generic [ref=e922]:
+          - link "Custom Field" [ref=e923] [cursor=pointer]:
+            - /url: https://workdo.io/product/dash-saas-add-ons/custom-field-dash-saas-add-on/
+          - link "Sales" [ref=e929] [cursor=pointer]:
+            - /url: https://workdo.io/product/dash-saas-add-ons/sales-dash-saas-add-on/
+          - link "Double Entry" [ref=e935] [cursor=pointer]:
+            - /url: https://workdo.io/product/dash-saas-add-ons/double-entry-dash-saas-add-on/
+          - link "Contract" [ref=e941] [cursor=pointer]:
+            - /url: https://workdo.io/product/dash-saas-add-ons/contract-dash-saas-add-on/
+          - link "Form Builder" [ref=e947] [cursor=pointer]:
+            - /url: https://workdo.io/product/dash-saas-add-ons/form-builder-dash-saas-add-on/
+          - link "Recruitment" [ref=e953] [cursor=pointer]:
+            - /url: https://workdo.io/product/dash-saas-add-ons/recruitment-dash-saas-add-on/
+          - link "Inventory" [ref=e959] [cursor=pointer]:
+            - /url: https://workdo.io/product/dash-saas-add-ons/inventory-dash-saas-add-on/
+          - link "Calender" [ref=e972] [cursor=pointer]:
+            - /url: https://workdo.io/product/dash-saas-add-ons/calendar-dash-saas-add-on/
+          - link "Assets" [ref=e977] [cursor=pointer]:
+            - /url: https://workdo.io/product/dash-saas-add-ons/assets-dash-saas-add-on/
+          - link "Timesheet" [ref=e983] [cursor=pointer]:
+            - /url: https://workdo.io/product/dash-saas-add-ons/timesheet-dash-saas-add-on/
+          - link "API" [ref=e989] [cursor=pointer]:
+            - /url: https://workdo.io/product/dash-saas-add-ons/api-dash-saas-add-on/
+          - link "Rotas" [ref=e995] [cursor=pointer]:
+            - /url: https://workdo.io/product/dash-saas-add-ons/rotas-dash-saas-add-on/
+          - link "Appointment" [ref=e1000] [cursor=pointer]:
+            - /url: https://workdo.io/product/dash-saas-add-ons/appointment-dash-saas-add-on/
+          - link [ref=e1006] [cursor=pointer]:
+            - /url: https://workdo.io/product-category/dash-saas-add-ons/
+            - img "Dash SaaS project dashboard" [ref=e1007]
+            - heading "Dash SaaS" [level=3] [ref=e1014]
+          - link "Perfomance" [ref=e1015] [cursor=pointer]:
+            - /url: https://workdo.io/product/dash-saas-add-ons/performance-dash-saas-add-on/
+          - link "Webhook" [ref=e1020] [cursor=pointer]:
+            - /url: https://workdo.io/product/dash-saas-add-ons/webhook-dash-saas-add-on/
+          - link "Notes" [ref=e1027] [cursor=pointer]:
+            - /url: https://workdo.io/product/dash-saas-add-ons/notes-dash-saas-add-on/
+          - link "Import/Export" [ref=e1033] [cursor=pointer]:
+            - /url: https://workdo.io/product/ecommercego-saas-add-ons/import-export-ecommercego-add-on/
+          - link "Product Review" [ref=e1039] [cursor=pointer]:
+            - /url: https://workdo.io/product/ecommercego-saas-add-ons/product-review-ecommercego-add-on/
+          - link "Digital Product" [ref=e1044] [cursor=pointer]:
+            - /url: https://workdo.io/product/ecommercego-saas-add-ons/digital-product-ecommercego-add-on/
+          - link [ref=e1051] [cursor=pointer]:
+            - /url: https://workdo.io/product-category/ecommercego-saas-add-ons/
+            - img "eCommerceGo SaaS online store" [ref=e1052]
+            - heading "eCommerceGo SaaS" [level=3] [ref=e1059]
+          - link [ref=e1060] [cursor=pointer]:
+            - /url: https://workdo.io/product-category/bookinggo-saas-add-ons/
+            - img "BookingGo SaaS appointment dashboard" [ref=e1061]
+            - heading "BookingGo SaaS" [level=3] [ref=e1066]
+          - link "Theme Customizer" [ref=e1067] [cursor=pointer]:
+            - /url: https://workdo.io/product/bookinggo-saas-add-ons/theme-customizer-bookinggo-saas-add-on/
+          - link "Promo Codes" [ref=e1076] [cursor=pointer]:
+            - /url: https://workdo.io/product/bookinggo-saas-add-ons/promo-codes-bookinggo-saas-add-on/
+          - link "SMS" [ref=e1081] [cursor=pointer]:
+            - /url: https://workdo.io/product/bookinggo-saas-add-ons/sms-bookinggo-saas-add-on/
+          - link "Barcode" [ref=e1086] [cursor=pointer]:
+            - /url: https://workdo.io/product/ecommercego-saas-add-ons/product-barcode-ecommercego-add-on/
+          - link "Pricing" [ref=e1090] [cursor=pointer]:
+            - /url: https://workdo.io/product/ecommercego-saas-add-ons/product-pricing-ecommercego-add-on/
+          - link "Google Login" [ref=e1096] [cursor=pointer]:
+            - /url: https://workdo.io/product/ecommercego-saas-add-ons/google-login-ecommercego-add-on/
+          - link "Team Booking" [ref=e1102] [cursor=pointer]:
+            - /url: https://workdo.io/product/bookinggo-saas-add-ons/team-booking-bookinggo-saas-add-on/
+          - link "PWA" [ref=e1110] [cursor=pointer]:
+            - /url: https://workdo.io/product/bookinggo-saas-add-ons/pwa-bookinggo-saas-add-on/
+          - link "Zoom Meeting" [ref=e1115] [cursor=pointer]:
+            - /url: https://workdo.io/product/bookinggo-saas-add-ons/zoom-meeting-bookinggo-saas-add-on/
+          - link "Menu" [ref=e1121] [cursor=pointer]:
+            - /url: https://workdo.io/product/vcard-saas-add-ons/menu-vcard-saas-add-on/
+          - link "Event" [ref=e1125] [cursor=pointer]:
+            - /url: https://workdo.io/product/vcard-saas-add-ons/event-vcard-saas-add-on/
+          - link "Pet Tag" [ref=e1131] [cursor=pointer]:
+            - /url: https://workdo.io/product/vcard-saas-add-ons/pet-tag-vcard-saas-add-on/
+          - link [ref=e1139] [cursor=pointer]:
+            - /url: https://workdo.io/product-category/vcard-saas-add-ons/
+            - img "vCard SaaS digital business card" [ref=e1140]
+            - heading "vCard SaaS" [level=3] [ref=e1145]
+          - link [ref=e1146] [cursor=pointer]:
+            - /url: https://workdo.io/product-category/ticketgo-add-ons/
+            - img "TicketGo support ticket conversations" [ref=e1147]
+            - heading "TicketGo" [level=3] [ref=e1151]
+          - link "Customer Login" [ref=e1152] [cursor=pointer]:
+            - /url: https://workdo.io/product/ticketgo-add-ons/customer-login-ticketgo-add-on/
+          - link "Ticket Number" [ref=e1159] [cursor=pointer]:
+            - /url: https://workdo.io/product/ticketgo-add-ons/ticket-number-ticketgo-add-on/
+          - link "Mail2Ticket" [ref=e1165] [cursor=pointer]:
+            - /url: https://workdo.io/product/ticketgo-add-ons/mail2ticket-ticketgo-add-on/
+          - link "Coupon" [ref=e1171] [cursor=pointer]:
+            - /url: https://workdo.io/product/vcard-saas-add-ons/coupon-vcard-saas-add-on/
+          - link "App Download" [ref=e1178] [cursor=pointer]:
+            - /url: https://workdo.io/product/vcard-saas-add-ons/app-download-vcard-saas-add-on/
+          - link "Google Map URL" [ref=e1184] [cursor=pointer]:
+            - /url: https://workdo.io/product/vcard-saas-add-ons/google-map-url-vcard-saas-add-on/
+          - link "Ticket Kanban" [ref=e1190] [cursor=pointer]:
+            - /url: https://workdo.io/product/ticketgo-add-ons/ticket-kanban-ticketgo-add-on/
+          - link "Auto Reply" [ref=e1195] [cursor=pointer]:
+            - /url: https://workdo.io/product/ticketgo-add-ons/auto-reply-ticketgo-add-on/
+          - link "Save Reply" [ref=e1202] [cursor=pointer]:
+            - /url: https://workdo.io/product/ticketgo-add-ons/save-reply-ticketgo-add-on/
+          - link "Wifi QR Code" [ref=e1209] [cursor=pointer]:
+            - /url: https://workdo.io/product/vcard-saas-add-ons/wifi-qr-code-vcard-saas-add-on/
+          - link "PDF QR Code" [ref=e1216] [cursor=pointer]:
+            - /url: https://workdo.io/product/vcard-saas-add-ons/pdf-qr-code-vcard-saas-add-on/
+          - link "Facebook Link Page" [ref=e1222] [cursor=pointer]:
+            - /url: https://workdo.io/product/vcard-saas-add-ons/facebook-link-page-vcard-saas-add-on/
+          - link "Google" [ref=e1227] [cursor=pointer]:
+            - /url: https://workdo.io/product/vcard-saas-add-ons/google-vcard-saas-add-on/
+          - link "Instagram Follow" [ref=e1235] [cursor=pointer]:
+            - /url: https://workdo.io/product/vcard-saas-add-ons/instagram-follow-vcard-saas-add-on/
+          - link "Tags" [ref=e1241] [cursor=pointer]:
+            - /url: https://workdo.io/product/ticketgo-add-ons/tags-ticketgo-add-on/
+          - link "Ticket Widget" [ref=e1248] [cursor=pointer]:
+            - /url: https://workdo.io/product/ticketgo-add-ons/ticket-widget-ticketgo-add-on/
+          - link "Ratings" [ref=e1254] [cursor=pointer]:
+            - /url: https://workdo.io/product/ticketgo-add-ons/ratings-ticketgo-add-on/
+          - link "Reports" [ref=e1259] [cursor=pointer]:
+            - /url: https://workdo.io/product/ticketgo-add-ons/reports-ticketgo-add-on/
+          - link "Chat Pin" [ref=e1263] [cursor=pointer]:
+            - /url: https://workdo.io/product/ticketgo-add-ons/chat-pin-ticketgo-add-on/
+      - generic [ref=e1270]:
+        - generic [ref=e1271]:
+          - heading "grow with WorkDo" [level=2] [ref=e1272]
+          - img "grow arrow" [ref=e1273]
+        - generic [ref=e1274]:
+          - generic [ref=e1276]:
+            - heading "27%" [level=3] [ref=e1277]
+            - heading "Increased productivity" [level=4] [ref=e1278]
+            - paragraph [ref=e1279]: Do more in less time
+          - generic [ref=e1285]:
+            - heading "50%" [level=3] [ref=e1286]
+            - heading "Faster implementation" [level=4] [ref=e1287]
+            - paragraph [ref=e1288]: Get started in no time
+          - generic [ref=e1293]:
+            - generic [ref=e1294]:
+              - heading "71%" [level=3] [ref=e1295]
+              - heading "Saved on licensing fees" [level=4] [ref=e1296]
+              - paragraph [ref=e1297]: Big savings for a lifetime
+            - img "saveings image" [ref=e1299]
+      - generic [ref=e1301]:
+        - generic [ref=e1302]:
+          - generic [ref=e1303]: services
+          - heading "Powerful Services. Simple Process." [level=2] [ref=e1304]
+          - paragraph [ref=e1305]: Whether you need help getting started, want something customized, or have an idea you want built from scratch — our team is ready to help.
+        - generic [ref=e1307]:
+          - group "1 / 3" [ref=e1308]:
+            - link "Installation Installation Start your business right away with our installation services. Start Installation" [ref=e1309] [cursor=pointer]:
+              - /url: https://workdo.io/software-installation-services/
+              - img "Installation" [ref=e1311]
+              - generic [ref=e1312]:
+                - generic [ref=e1313]:
+                  - heading "Installation" [level=3] [ref=e1314]
+                  - paragraph [ref=e1315]: Start your business right away with our installation services.
+                - generic [ref=e1316]: Start Installation
+          - group "2 / 3" [ref=e1318]:
+            - link "Customization Customization Get product customized to your new feature requirements. Request Customization" [ref=e1319] [cursor=pointer]:
+              - /url: https://workdo.io/development-request/
+              - img "Customization" [ref=e1321]
+              - generic [ref=e1322]:
+                - generic [ref=e1323]:
+                  - heading "Customization" [level=3] [ref=e1324]
+                  - paragraph [ref=e1325]: Get product customized to your new feature requirements.
+                - generic [ref=e1326]: Request Customization
+          - group "3 / 3" [ref=e1328]:
+            - link "Development Development Bring your idea to reality with our expert development services. Start Development" [ref=e1329] [cursor=pointer]:
+              - /url: https://workdo.io/development-request/
+              - img "Development" [ref=e1331]
+              - generic [ref=e1332]:
+                - generic [ref=e1333]:
+                  - heading "Development" [level=3] [ref=e1334]
+                  - paragraph [ref=e1335]: Bring your idea to reality with our expert development services.
+                - generic [ref=e1336]: Start Development
+      - generic [ref=e1339]:
+        - generic [ref=e1340]:
+          - generic [ref=e1341]: Trust & Recognition
+          - heading "Our Achievements" [level=2] [ref=e1342]
+          - paragraph [ref=e1343]: Trusted by growing businesses, agencies, and developers worldwide — WorkDo has built a track record worth talking about.
+        - generic [ref=e1344]:
+          - generic [ref=e1350]:
+            - generic [ref=e1351]: 0+
+            - paragraph [ref=e1352]: Success Sales
+          - generic [ref=e1360]:
+            - generic [ref=e1361]: 0+
+            - paragraph [ref=e1362]: Trusted Customers
+          - generic [ref=e1367]:
+            - generic [ref=e1368]: 0+
+            - paragraph [ref=e1369]: Ratings
+        - generic [ref=e1370]:
+          - generic [ref=e1371]:
+            - paragraph [ref=e1373]: Proud to be a
+            - img "Envato Elite" [ref=e1378]
+            - generic [ref=e1379]:
+              - heading "Power Elite Author" [level=3] [ref=e1380]
+              - paragraph [ref=e1381]: Recognized as a Power Elite Author for quality and trusted digital solutions.
+          - generic [ref=e1382]:
+            - img "achievement badge" [ref=e1384]
+            - generic [ref=e1385]:
+              - heading "9 Years at the Top" [level=3] [ref=e1386]
+              - paragraph [ref=e1387]: Delivering high-quality management scripts and business tools since 2017.
+        - link "Explore the WorkDo Ecosystem" [ref=e1389] [cursor=pointer]:
+          - /url: https://codecanyon.net/user/workdo
+      - generic [ref=e1392]:
+        - generic [ref=e1394]:
+          - generic [ref=e1395]: Testimonials
+          - heading "What Our Clients Say About Us" [level=2] [ref=e1396]
+        - generic [ref=e1399]:
+          - generic [ref=e1400]:
+            - figure "ankitnaredifamily Envato review" [ref=e1401]:
+              - img "Rated 5 out of 5" [ref=e1403]
+              - blockquote [ref=e1413]:
+                - paragraph [ref=e1414]: I had a problem with my domain change, support gave me a quick reply so I can change my domain in a superfast way. Thanks a lot
+              - generic [ref=e1415]:
+                - generic [ref=e1416]: ankitnaredifamily
+                - img "Envato review" [ref=e1417]
+            - figure "ousmandiop Envato review" [ref=e1420]:
+              - img "Rated 4.1 out of 5" [ref=e1422]
+              - blockquote [ref=e1432]:
+                - paragraph [ref=e1433]: Excellent customer support! The team quickly fixed our server issues and provided great assistance throughout the process. I’m confident in their ongoing support. Thanks to the entire eCommerceGo SaaS team!
+              - generic [ref=e1434]:
+                - generic [ref=e1435]: ousmandiop
+                - img "Envato review" [ref=e1436]
+            - figure "BuxRecord Envato review" [ref=e1439]:
+              - img "Rated 4.3 out of 5" [ref=e1441]
+              - blockquote [ref=e1451]:
+                - paragraph [ref=e1452]: I faced some setup issues due to my limited web hosting knowledge, but the WorkDo support team resolved everything quickly. I’m very grateful for their help and highly recommend them.
+              - generic [ref=e1453]:
+                - generic [ref=e1454]: BuxRecord
+                - img "Envato review" [ref=e1455]
+            - figure "vladimirzhilko Envato review" [ref=e1458]:
+              - img "Rated 4.7 out of 5" [ref=e1460]
+              - blockquote [ref=e1470]:
+                - paragraph [ref=e1471]: Excellent product with active development and top-notch support. I’ve followed it for six months, and the latest update was impressive. Keep up the great work—best wishes to the developers!
+              - generic [ref=e1472]:
+                - generic [ref=e1473]: vladimirzhilko
+                - img "Envato review" [ref=e1474]
+            - figure "smartdsk7 Envato review" [ref=e1477]:
+              - img "Rated 4.5 out of 5" [ref=e1479]
+              - blockquote [ref=e1489]:
+                - paragraph [ref=e1490]: Excellent support team! They are always responsive and helpful, even outside working hours and on holidays. Fast replies, reliable service, and a truly dedicated team. Highly recommended.
+              - generic [ref=e1491]:
+                - generic [ref=e1492]: smartdsk7
+                - img "Envato review" [ref=e1493]
+            - figure "sergiob61 Envato review" [ref=e1496]:
+              - img "Rated 4.5 out of 5" [ref=e1498]
+              - blockquote [ref=e1508]:
+                - paragraph [ref=e1509]: Had an upgrade had problems cause I don’t know nothing about coding messaged them on… wow incredible service so easy so professional and no stress to fix my site you guys are great !!! Thank you so much 10 out of 10
+              - generic [ref=e1510]:
+                - generic [ref=e1511]: sergiob61
+                - img "Envato review" [ref=e1512]
+            - figure "Cycity Envato review" [ref=e1515]:
+              - img "Rated 4.2 out of 5" [ref=e1517]
+              - blockquote [ref=e1527]:
+                - paragraph [ref=e1528]: You are really awesome when it comes to support. You resolved all my queries on time and helped me to overcome the challenges. I suggest everyone to go with Rajodia
+              - generic [ref=e1529]:
+                - generic [ref=e1530]: Cycity
+                - img "Envato review" [ref=e1531]
+            - figure "eyildiz88 Envato review" [ref=e1534]:
+              - img "Rated 5 out of 5" [ref=e1536]
+              - blockquote [ref=e1546]:
+                - paragraph [ref=e1547]: The author is really talented. Every software he makes is of high quality and usability is very good! I recommend you to skip the others and get this one!
+              - generic [ref=e1548]:
+                - generic [ref=e1549]: eyildiz88
+                - img "Envato review" [ref=e1550]
+            - figure "fidansokoli1 Envato review" [ref=e1553]:
+              - img "Rated 4.9 out of 5" [ref=e1555]
+              - blockquote [ref=e1565]:
+                - paragraph [ref=e1566]: They are very good, they handle the problems like a professional, the problems are all fixed very quickly within the day, clarifications as well as unexpected to help, I always talk about the script.
+              - generic [ref=e1567]:
+                - generic [ref=e1568]: fidansokoli1
+                - img "Envato review" [ref=e1569]
+            - figure "Links_Solutions Envato review" [ref=e1572]:
+              - img "Rated 4.7 out of 5" [ref=e1574]
+              - blockquote [ref=e1584]:
+                - paragraph [ref=e1585]: Guys, I congratulate you on what you provide. Every time you amaze us with the wonderfulness you create. Keep moving forward. We need the creativity that you provide.
+              - generic [ref=e1586]:
+                - generic [ref=e1587]: Links_Solutions
+                - img "Envato review" [ref=e1588]
+            - figure "BuxRecord Envato review" [ref=e1591]:
+              - img "Rated 4 out of 5" [ref=e1593]
+              - blockquote [ref=e1603]:
+                - paragraph [ref=e1604]: I am amazing with WorkDo support. For any query, for any issue (many times due to my limited knowledge, I make mistakes), WorkDo is always here to reply with respect, and fixed my issue. Great thanks
+              - generic [ref=e1605]:
+                - generic [ref=e1606]: BuxRecord
+                - img "Envato review" [ref=e1607]
+            - figure "jeho82 Envato review" [ref=e1610]:
+              - img "Rated 3.8 out of 5" [ref=e1612]
+              - blockquote [ref=e1622]:
+                - paragraph [ref=e1623]: One of the best scripts on codecanyon, easy to use and understand, the developer is always ready to help if any problem exists. He’s the best developer that understands the development of SAAS scripts
+              - generic [ref=e1624]:
+                - generic [ref=e1625]: jeho82
+                - img "Envato review" [ref=e1626]
+            - figure "Kripzy Envato review" [ref=e1629]:
+              - img "Rated 4.8 out of 5" [ref=e1631]
+              - blockquote [ref=e1641]:
+                - paragraph [ref=e1642]: Great developer support—helped quickly resolve a 500 server error during setup. The code quality is solid, settings are well designed, and the role-based access controls are excellent.
+              - generic [ref=e1643]:
+                - generic [ref=e1644]: Kripzy
+                - img "Envato review" [ref=e1645]
+            - figure "devmilitia Envato review" [ref=e1648]:
+              - img "Rated 4.6 out of 5" [ref=e1650]
+              - blockquote [ref=e1660]:
+                - paragraph [ref=e1661]: This are the best TASK Manager System in all the marketplace, the support are amazing, Best regards and good sales !!!
+              - generic [ref=e1662]:
+                - generic [ref=e1663]: devmilitia
+                - img "Envato review" [ref=e1664]
+            - figure "dijitalmuzikdagitim Envato review" [ref=e1667]:
+              - img "Rated 4.9 out of 5" [ref=e1669]
+              - blockquote [ref=e1679]:
+                - paragraph [ref=e1680]: We ran into a few problems. The customer representative quickly resolved the issues. Thank you very much for the quick solution.
+              - generic [ref=e1681]:
+                - generic [ref=e1682]: dijitalmuzikdagitim
+                - img "Envato review" [ref=e1683]
+          - generic [aria-hidden] [ref=e1686]:
+            - figure [ref=e1687]:
+              - blockquote [ref=e1699]:
+                - paragraph [ref=e1700]: I had a problem with my domain change, support gave me a quick reply so I can change my domain in a superfast way. Thanks a lot
+              - generic [ref=e1701]: ankitnaredifamily
+            - figure [ref=e1706]:
+              - blockquote [ref=e1718]:
+                - paragraph [ref=e1719]: Excellent customer support! The team quickly fixed our server issues and provided great assistance throughout the process. I’m confident in their ongoing support. Thanks to the entire eCommerceGo SaaS team!
+              - generic [ref=e1720]: ousmandiop
+            - figure [ref=e1725]:
+              - blockquote [ref=e1737]:
+                - paragraph [ref=e1738]: I faced some setup issues due to my limited web hosting knowledge, but the WorkDo support team resolved everything quickly. I’m very grateful for their help and highly recommend them.
+              - generic [ref=e1739]: BuxRecord
+            - figure [ref=e1744]:
+              - blockquote [ref=e1756]:
+                - paragraph [ref=e1757]: Excellent product with active development and top-notch support. I’ve followed it for six months, and the latest update was impressive. Keep up the great work—best wishes to the developers!
+              - generic [ref=e1758]: vladimirzhilko
+            - figure [ref=e1763]:
+              - blockquote [ref=e1775]:
+                - paragraph [ref=e1776]: Excellent support team! They are always responsive and helpful, even outside working hours and on holidays. Fast replies, reliable service, and a truly dedicated team. Highly recommended.
+              - generic [ref=e1777]: smartdsk7
+            - figure [ref=e1782]:
+              - blockquote [ref=e1794]:
+                - paragraph [ref=e1795]: Had an upgrade had problems cause I don’t know nothing about coding messaged them on… wow incredible service so easy so professional and no stress to fix my site you guys are great !!! Thank you so much 10 out of 10
+              - generic [ref=e1796]: sergiob61
+            - figure [ref=e1801]:
+              - blockquote [ref=e1813]:
+                - paragraph [ref=e1814]: You are really awesome when it comes to support. You resolved all my queries on time and helped me to overcome the challenges. I suggest everyone to go with Rajodia
+              - generic [ref=e1815]: Cycity
+            - figure [ref=e1820]:
+              - blockquote [ref=e1832]:
+                - paragraph [ref=e1833]: The author is really talented. Every software he makes is of high quality and usability is very good! I recommend you to skip the others and get this one!
+              - generic [ref=e1834]: eyildiz88
+            - figure [ref=e1839]:
+              - blockquote [ref=e1851]:
+                - paragraph [ref=e1852]: They are very good, they handle the problems like a professional, the problems are all fixed very quickly within the day, clarifications as well as unexpected to help, I always talk about the script.
+              - generic [ref=e1853]: fidansokoli1
+            - figure [ref=e1858]:
+              - blockquote [ref=e1870]:
+                - paragraph [ref=e1871]: Guys, I congratulate you on what you provide. Every time you amaze us with the wonderfulness you create. Keep moving forward. We need the creativity that you provide.
+              - generic [ref=e1872]: Links_Solutions
+            - figure [ref=e1877]:
+              - blockquote [ref=e1889]:
+                - paragraph [ref=e1890]: I am amazing with WorkDo support. For any query, for any issue (many times due to my limited knowledge, I make mistakes), WorkDo is always here to reply with respect, and fixed my issue. Great thanks
+              - generic [ref=e1891]: BuxRecord
+            - figure [ref=e1896]:
+              - blockquote [ref=e1908]:
+                - paragraph [ref=e1909]: One of the best scripts on codecanyon, easy to use and understand, the developer is always ready to help if any problem exists. He’s the best developer that understands the development of SAAS scripts
+              - generic [ref=e1910]: jeho82
+            - figure [ref=e1915]:
+              - blockquote [ref=e1927]:
+                - paragraph [ref=e1928]: Great developer support—helped quickly resolve a 500 server error during setup. The code quality is solid, settings are well designed, and the role-based access controls are excellent.
+              - generic [ref=e1929]: Kripzy
+            - figure [ref=e1934]:
+              - blockquote [ref=e1946]:
+                - paragraph [ref=e1947]: This are the best TASK Manager System in all the marketplace, the support are amazing, Best regards and good sales !!!
+              - generic [ref=e1948]: devmilitia
+            - figure [ref=e1953]:
+              - blockquote [ref=e1965]:
+                - paragraph [ref=e1966]: We ran into a few problems. The customer representative quickly resolved the issues. Thank you very much for the quick solution.
+              - generic [ref=e1967]: dijitalmuzikdagitim
+        - button "Pause testimonials" [ref=e1974] [cursor=pointer]
+      - generic [ref=e1979]:
+        - generic [ref=e1980]:
+          - generic [ref=e1981]: Faq's
+          - heading "Frequently Asked Questions" [level=2] [ref=e1982]
+          - paragraph [ref=e1983]: Have questions? Here are answers to the things people ask us most often. If you don’t find what you’re looking for, our team is happy to help.
+        - generic [ref=e1984]:
+          - generic [ref=e1985]:
+            - button "What is WorkDo?" [ref=e1988] [cursor=pointer]
+            - button "Can I access the Live Demo without creating an account?" [ref=e1995] [cursor=pointer]
+            - button "How do I get started after purchasing a WorkDo product?" [ref=e2002] [cursor=pointer]
+          - generic [ref=e2007]:
+            - button "Is my business data safe with WorkDo?" [ref=e2010] [cursor=pointer]
+            - button "What does 6 months of support mean?" [ref=e2017] [cursor=pointer]
+            - button "Can WorkDo products be white-labeled with my own brand?" [ref=e2024] [cursor=pointer]
+      - generic [ref=e2031]:
+        - generic [ref=e2032]:
+          - generic [ref=e2033]:
+            - generic [ref=e2034]: Get in Touch
+            - heading "We're Here to Help - Let's Talk" [level=2] [ref=e2035]
+            - paragraph [ref=e2036]: Have questions about our solutions, customization services, or business tools? Our team is here to help you. let's talk.
+          - generic [ref=e2037]:
+            - link [ref=e2038] [cursor=pointer]:
+              - /url: https://workdo.io/development-request/
+              - heading "Custom Development" [level=3] [ref=e2041]
+            - link [ref=e2042] [cursor=pointer]:
+              - /url: https://workdo.io/software-installation-services/
+              - heading "Installation Services" [level=3] [ref=e2046]
+            - link [ref=e2047] [cursor=pointer]:
+              - /url: https://support.workdo.io/
+              - heading "Request Support" [level=3] [ref=e2052]
+            - link [ref=e2053] [cursor=pointer]:
+              - /url: https://workdo.io/documents/
+              - heading "Documentation" [level=3] [ref=e2056]
+        - generic [ref=e2057]:
+          - generic [ref=e2058]:
+            - list
+          - form "Contact form" [ref=e2059]:
+            - generic [ref=e2060]:
+              - heading "Send us a Message" [level=4] [ref=e2062]
+              - generic [ref=e2063]:
+                - generic [ref=e2064]:
+                  - paragraph [ref=e2066]:
+                    - generic [ref=e2067]: First Name *
+                    - textbox "John" [ref=e2069]
+                  - paragraph [ref=e2071]:
+                    - generic [ref=e2072]: Last Name
+                    - textbox "Doe" [ref=e2074]
+                - generic [ref=e2075]:
+                  - paragraph [ref=e2077]:
+                    - generic [ref=e2078]: Email Address *
+                    - textbox "name@example.com" [ref=e2080]
+                  - paragraph [ref=e2082]:
+                    - generic [ref=e2083]: Phone Number
+                    - textbox "+1 (555) 000-0000" [ref=e2085]
+                - paragraph [ref=e2087]:
+                  - generic [ref=e2088]: Message
+                  - textbox "Tell us about your project or question..." [ref=e2090]
+                - button "Send Message" [ref=e2096] [cursor=pointer]
+    - contentinfo [ref=e2100]:
+      - generic [ref=e2103]:
+        - generic [ref=e2104]:
+          - link [ref=e2106] [cursor=pointer]:
+            - /url: https://workdo.io/
+            - img "WorkDo" [ref=e2107]
+          - paragraph [ref=e2108]: We build modern web tools to help you jump-start your daily business work and improve productivity.
+          - generic [ref=e2109]:
+            - paragraph [ref=e2110]: Ask AI how WorkDo helps Businesses grow
+            - generic [ref=e2111]:
+              - link [ref=e2112] [cursor=pointer]:
+                - /url: https://chat.openai.com/?q=Help%20me%20understand%20what%20makes%20WorkDo%20a%20powerful%2C%20all-in-one%20SaaS%20and%20modular%20ERP%20platform%20that%20simplifies%20operations%20and%20supports%20business%20growth.%20Based%20on%20workdo.io%2C%20explain%20how%20WorkDo%20unifies%20core%20functions%20like%20CRM%2C%20HRM%2C%20accounting%2C%20and%20project%20management%20into%20one%20system%2C%20reducing%20tool%20fragmentation%20and%20complexity%2C%20and%20how%20its%20modular%20add-ons%20and%20flexible%20architecture%20help%20businesses%20automate%20workflows%2C%20improve%20efficiency%2C%20and%20scale%20effectively%20while%20driving%20better%20decisions%20and%20long-term%20growth.
+                - img "chatgpt logo" [ref=e2113]
+              - link [ref=e2114] [cursor=pointer]:
+                - /url: https://www.perplexity.ai/search?q=Help%20me%20understand%20what%20makes%20WorkDo%20a%20powerful%2C%20all-in-one%20SaaS%20and%20modular%20ERP%20platform%20that%20simplifies%20operations%20and%20supports%20business%20growth.%20Based%20on%20workdo.io%2C%20explain%20how%20WorkDo%20unifies%20core%20functions%20like%20CRM%2C%20HRM%2C%20accounting%2C%20and%20project%20management%20into%20one%20system%2C%20reducing%20tool%20fragmentation%20and%20complexity%2C%20and%20how%20its%20modular%20add-ons%20and%20flexible%20architecture%20help%20businesses%20automate%20workflows%2C%20improve%20efficiency%2C%20and%20scale%20effectively%20while%20driving%20better%20decisions%20and%20long-term%20growth.
+                - img "perplexity logo" [ref=e2115]
+              - link [ref=e2116] [cursor=pointer]:
+                - /url: https://claude.ai/new?q=Help%20me%20understand%20what%20makes%20WorkDo%20a%20powerful%2C%20all-in-one%20SaaS%20and%20modular%20ERP%20platform%20that%20simplifies%20operations%20and%20supports%20business%20growth.%20Based%20on%20workdo.io%2C%20explain%20how%20WorkDo%20unifies%20core%20functions%20like%20CRM%2C%20HRM%2C%20accounting%2C%20and%20project%20management%20into%20one%20system%2C%20reducing%20tool%20fragmentation%20and%20complexity%2C%20and%20how%20its%20modular%20add-ons%20and%20flexible%20architecture%20help%20businesses%20automate%20workflows%2C%20improve%20efficiency%2C%20and%20scale%20effectively%20while%20driving%20better%20decisions%20and%20long-term%20growth.
+                - img "claud logo" [ref=e2117]
+              - link [ref=e2118] [cursor=pointer]:
+                - /url: https://www.google.com/search?udm=50&q=Help%20me%20understand%20what%20makes%20WorkDo%20a%20powerful%2C%20all-in-one%20SaaS%20and%20modular%20ERP%20platform%20that%20simplifies%20operations%20and%20supports%20business%20growth.%20Based%20on%20workdo.io%2C%20explain%20how%20WorkDo%20unifies%20core%20functions%20like%20CRM%2C%20HRM%2C%20accounting%2C%20and%20project%20management%20into%20one%20system%2C%20reducing%20tool%20fragmentation%20and%20complexity%2C%20and%20how%20its%20modular%20add-ons%20and%20flexible%20architecture%20help%20businesses%20automate%20workflows%2C%20improve%20efficiency%2C%20and%20scale%20effectively%20while%20driving%20better%20decisions%20and%20long-term%20growth.
+                - img "gemini logo" [ref=e2119]
+              - link [ref=e2120] [cursor=pointer]:
+                - /url: https://x.com/i/grok?text=Help%20me%20understand%20what%20makes%20WorkDo%20a%20powerful%2C%20all-in-one%20SaaS%20and%20modular%20ERP%20platform%20that%20simplifies%20operations%20and%20supports%20business%20growth.%20Based%20on%20workdo.io%2C%20explain%20how%20WorkDo%20unifies%20core%20functions%20like%20CRM%2C%20HRM%2C%20accounting%2C%20and%20project%20management%20into%20one%20system%2C%20reducing%20tool%20fragmentation%20and%20complexity%2C%20and%20how%20its%20modular%20add-ons%20and%20flexible%20architecture%20help%20businesses%20automate%20workflows%2C%20improve%20efficiency%2C%20and%20scale%20effectively%20while%20driving%20better%20decisions%20and%20long-term%20growth.
+                - img "grok logo" [ref=e2121]
+          - generic [ref=e2122]:
+            - link [ref=e2123] [cursor=pointer]:
+              - /url: https://codecanyon.net/user/workdo/portfolio
+              - img "codecanyon button" [ref=e2124]
+            - link [ref=e2125] [cursor=pointer]:
+              - /url: https://themeforest.net/user/workdo/portfolio
+              - img "codecanyon button" [ref=e2126]
+        - generic [ref=e2127]:
+          - heading "Quick Links" [level=4] [ref=e2128]
+          - list [ref=e2129]:
+            - listitem [ref=e2130]:
+              - link "Custom Development" [ref=e2131] [cursor=pointer]:
+                - /url: https://workdo.io/development-request/
+            - listitem [ref=e2132]:
+              - link "Installation" [ref=e2133] [cursor=pointer]:
+                - /url: https://workdo.io/software-installation-services/
+            - listitem [ref=e2134]:
+              - link "About Us" [ref=e2135] [cursor=pointer]:
+                - /url: https://workdo.io/about-us/
+            - listitem [ref=e2136]:
+              - link "Documentation" [ref=e2137] [cursor=pointer]:
+                - /url: https://workdo.io/documents/
+            - listitem [ref=e2138]:
+              - link "Blogs" [ref=e2139] [cursor=pointer]:
+                - /url: https://workdo.io/blogs/
+            - listitem [ref=e2140]:
+              - link "Shop" [ref=e2141] [cursor=pointer]:
+                - /url: https://workdo.io/shop/
+        - generic [ref=e2142]:
+          - heading "Support" [level=4] [ref=e2143]
+          - list [ref=e2144]:
+            - listitem [ref=e2145]:
+              - link "Contact Us" [ref=e2146] [cursor=pointer]:
+                - /url: https://workdo.io/contact-us/
+            - listitem [ref=e2147]:
+              - link "Get Support" [ref=e2148] [cursor=pointer]:
+                - /url: https://support.workdo.io/
+            - listitem [ref=e2149]:
+              - link "Terms & Conditions" [ref=e2150] [cursor=pointer]:
+                - /url: https://workdo.io/privacy-policy/
+            - listitem [ref=e2151]:
+              - link "Refund Policy" [ref=e2152] [cursor=pointer]:
+                - /url: https://workdo.io/refund-policy/
+            - listitem [ref=e2153]:
+              - link "Cookie Policy" [ref=e2154] [cursor=pointer]:
+                - /url: https://workdo.io/cookie-policy/
+            - listitem [ref=e2155]:
+              - link "License & Activation" [ref=e2156] [cursor=pointer]:
+                - /url: https://workdo.io/license-activation/
+        - generic [ref=e2157]:
+          - heading "Achievements" [level=4] [ref=e2158]
+          - paragraph [ref=e2159]: Power Elite Author On Envato
+          - generic [ref=e2162]:
+            - generic "Power Elite Author" [ref=e2163]:
+              - img "Power Elite" [ref=e2164]
+            - 'generic "Featured Author: Hall of Fame" [ref=e2165]':
+              - img "Was Featured" [ref=e2166]
+            - generic "Had an item featured on Envato Market" [ref=e2167]:
+              - img "Had Featured Item" [ref=e2168]
+            - generic "Free File of the Month" [ref=e2169]:
+              - img "Had Free File" [ref=e2170]
+            - generic "Author Level 12" [ref=e2171]:
+              - img "Author Level 12" [ref=e2172]
+            - generic "One Billion Milestone" [ref=e2173]:
+              - img "One Billion Milestone" [ref=e2174]
+            - generic "Had Trending Item" [ref=e2175]:
+              - img "Had Trending Item" [ref=e2176]
+            - generic "Weekly Top Seller" [ref=e2177]:
+              - img "Weekly Top Seller" [ref=e2178]
+            - generic "Exclusive Author" [ref=e2179]:
+              - img "Exclusive Author" [ref=e2180]
+            - generic "Community Health" [ref=e2181]:
+              - img "Community Health" [ref=e2182]
+            - generic "Author Score Level 2" [ref=e2183]:
+              - img "Author Score Level 2" [ref=e2184]
+            - 'generic "Veteran Level 9: 9+ Years on Envato" [ref=e2185]':
+              - img "Veteran Level 9" [ref=e2186]
+      - generic [ref=e2189]:
+        - paragraph [ref=e2190]:
+          - text: © 2026
+          - link "WorkDo FZCO" [ref=e2191] [cursor=pointer]:
+            - /url: https://workdo.io
+          - text: . All rights reserved. Crafted with
+          - img "❤️" [ref=e2192]
+          - text: to enhance the web.
+        - generic [ref=e2193]:
+          - paragraph [ref=e2194]: "Secure payment with:"
+          - generic [ref=e2195]:
+            - img "stripe" [ref=e2196]
+            - img "paypal" [ref=e2197]
+        - list [ref=e2198]:
+          - listitem [ref=e2199]:
+            - link [ref=e2200] [cursor=pointer]:
+              - /url: https://www.facebook.com/workdo.io/
+              - img "facebook" [ref=e2201]
+          - listitem [ref=e2202]:
+            - link [ref=e2203] [cursor=pointer]:
+              - /url: https://www.instagram.com/workdo.io/
+              - img "instagram" [ref=e2204]
+          - listitem [ref=e2205]:
+            - link [ref=e2206] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/work-do/
+              - img "linkedin" [ref=e2207]
+          - listitem [ref=e2208]:
+            - link [ref=e2209] [cursor=pointer]:
+              - /url: https://www.youtube.com/@WorkDo.MarketPlace
+              - img "youtube" [ref=e2210]
+  - status [ref=e2211]

@@ -17,6 +17,15 @@ const monaSans = localFont({
   fallback: ["Inter", "Arial", "sans-serif"],
 });
 
+// Handwritten accent face (SIL Open Font License), self-hosted like Mona Sans.
+const caveat = localFont({
+  src: "./caveat.woff2",
+  display: "swap",
+  variable: "--font-caveat",
+  weight: "400 700",
+  fallback: ["Segoe Script", "cursive"],
+});
+
 export const metadata: Metadata = {
   metadataBase: getSiteUrl(),
   title: {
@@ -65,7 +74,7 @@ export default function RootLayout({
   children,
 }: Readonly<{ children: React.ReactNode }>) {
   return (
-    <html lang="en" className={monaSans.variable} suppressHydrationWarning>
+    <html lang="en" className={`${monaSans.variable} ${caveat.variable}`} suppressHydrationWarning>
       <head>
         <script
           dangerouslySetInnerHTML={{

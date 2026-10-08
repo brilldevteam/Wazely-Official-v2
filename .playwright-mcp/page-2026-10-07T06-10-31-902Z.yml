@@ -1,0 +1,1027 @@
+- generic [active] [ref=f19e1]:
+  - generic [ref=f19e2]:
+    - banner [ref=f19e3]:
+      - link [ref=f19e4] [cursor=pointer]:
+        - /url: https://workdo.io/dash-saas-complete-bundle/
+        - generic [ref=f19e5]: Bundle Sale - Save 72% on the Dash SaaS Complete Bundle
+        - generic [ref=f19e8]: Claim Now
+      - generic [ref=f19e12]:
+        - link [ref=f19e14] [cursor=pointer]:
+          - /url: https://workdo.io/
+          - img "WorkDo" [ref=f19e15]
+        - navigation [ref=f19e16]:
+          - list [ref=f19e17]:
+            - listitem [ref=f19e18]:
+              - link "Products" [ref=f19e19] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=f19e22]:
+              - link "Add-Ons" [ref=f19e23] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=f19e26]:
+              - link "Industry Solutions" [ref=f19e27] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=f19e30]:
+              - link "Bulk Discount" [ref=f19e31] [cursor=pointer]:
+                - /url: https://workdo.io/special-bulk-offer/
+            - listitem [ref=f19e32]:
+              - link "Services" [ref=f19e33] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=f19e36]:
+              - link "Support" [ref=f19e37] [cursor=pointer]:
+                - /url: javascript:void(0);
+        - generic [ref=f19e40]:
+          - list [ref=f19e41]:
+            - listitem [ref=f19e42]:
+              - link "0" [ref=f19e43] [cursor=pointer]:
+                - /url: https://workdo.io/cart/
+            - listitem
+          - link "Login" [ref=f19e48] [cursor=pointer]:
+            - /url: https://workdo.io/my-account/
+    - main [ref=f19e54]:
+      - generic [ref=f19e55]:
+        - img "hospital management" [ref=f19e56]
+        - generic [ref=f19e58]:
+          - generic [ref=f19e59]:
+            - generic [ref=f19e60]: Hospital Management Software
+            - heading "One System for Managing Patients, Doctors & all Department in Hospital" [level=1] [ref=f19e61]
+            - paragraph [ref=f19e62]: Bring outpatient records, appointments, billing, pharmacy and lab results together, so your staff can spend more time with patients.
+          - generic [ref=f19e63]:
+            - generic [ref=f19e64]:
+              - generic [ref=f19e65]: best value
+              - generic [ref=f19e66]:
+                - insertion [ref=f19e67]: $349
+                - deletion [ref=f19e68]: $866
+            - generic [ref=f19e70]:
+              - link "get the software" [ref=f19e71] [cursor=pointer]:
+                - /url: javascript:void(0);
+              - link "View Live Demo" [ref=f19e76] [cursor=pointer]:
+                - /url: https://dash-demo.workdo.io/demo-login?addons=HospitalManagement,MedicalLabManagement,BloodBank,RadiologyManagement,OpticalAndEyeCareCenter,DietAndNutritionConsultant,Appointment,VisitorManagement,LockerAndSafeDeposit,InsuranceManagement,BiometricAttendance,WhatsAppMessenger,Calendar,SmartDashboardAnalytics,AIBusinessAdvisor,SmartReports,NoticeBoard,SuggestionBox
+          - generic [ref=f19e80]:
+            - generic [ref=f19e81]: One-time Purchase
+            - generic [ref=f19e86]: Full Source Code
+            - generic [ref=f19e91]: Lifetime Updates
+            - generic [ref=f19e96]: White Label Ready
+      - generic [ref=f19e104]:
+        - generic [ref=f19e113]:
+          - text: 20,000+
+          - paragraph [ref=f19e114]: Businesses Worldwide
+        - generic [ref=f19e120]:
+          - text: 1,500+
+          - paragraph [ref=f19e121]: Customer Ratings
+        - generic [ref=f19e130]:
+          - text: Power Elite
+          - paragraph [ref=f19e131]: Author on Envato
+        - generic [ref=f19e143]:
+          - text: 9+ Years
+          - paragraph [ref=f19e144]: Of Excellence
+      - generic [ref=f19e148]:
+        - generic [ref=f19e149]:
+          - generic [ref=f19e150]: one platform, all connections
+          - heading "everything connected. everything simplified." [level=2] [ref=f19e151]
+          - paragraph [ref=f19e152]: Running a hospital shouldn't mean logging into five different tools to check a bed, bill a patient, or update a lab result. WorkDo's hospital software connects every department - patients, doctors, appointments, laboratory, radiology, blood bank, insurance, and billing - into one seamless workflow.
+        - list [ref=f19e153]:
+          - listitem [ref=f19e154]:
+            - generic [ref=f19e158]: Real-time data across all departments
+          - listitem [ref=f19e159]:
+            - generic [ref=f19e163]: No duplicate entries or manual work
+          - listitem [ref=f19e164]:
+            - generic [ref=f19e168]: Better decisions with unified insights
+          - listitem [ref=f19e169]:
+            - generic [ref=f19e173]: Improved patient experience
+        - generic [ref=f19e174]:
+          - link "get the software" [ref=f19e175] [cursor=pointer]:
+            - /url: javascript:void(0);
+          - link "View Live Demo" [ref=f19e180] [cursor=pointer]:
+            - /url: https://dash-demo.workdo.io/demo-login?addons=HospitalManagement,MedicalLabManagement,BloodBank,RadiologyManagement,OpticalAndEyeCareCenter,DietAndNutritionConsultant,Appointment,VisitorManagement,LockerAndSafeDeposit,InsuranceManagement,BiometricAttendance,WhatsAppMessenger,Calendar,SmartDashboardAnalytics,AIBusinessAdvisor,SmartReports,NoticeBoard,SuggestionBox
+      - generic [ref=f19e187]:
+        - generic [ref=f19e188]:
+          - generic [ref=f19e189]: Versatile & Adaptable
+          - heading "Built for Every Healthcare Industry" [level=2] [ref=f19e190]
+          - paragraph [ref=f19e191]: Whether you run a private clinic, diagnostic lab, or multi-specialty hospital, our platform scales seamlessly across every healthcare domain.
+        - generic [ref=f19e192]:
+          - generic [ref=f19e193]:
+            - generic [ref=f19e194]:
+              - img "Hospitals"
+            - paragraph [ref=f19e201]: Hospitals
+          - generic [ref=f19e202]:
+            - generic [ref=f19e203]:
+              - img "Medical Laboratories"
+            - paragraph [ref=f19e208]: Medical Laboratories
+          - generic [ref=f19e209]:
+            - generic [ref=f19e210]:
+              - img "Pharmacies"
+            - paragraph [ref=f19e216]: Pharmacies
+          - generic [ref=f19e217]:
+            - generic [ref=f19e218]:
+              - img "Nursing Homes"
+            - paragraph [ref=f19e224]: Nursing Homes
+          - generic [ref=f19e225]:
+            - generic [ref=f19e226]:
+              - img "Women's Care Centers"
+            - paragraph [ref=f19e231]: Women's Care Centers
+          - generic [ref=f19e232]:
+            - generic [ref=f19e233]:
+              - img "Children's Hospitals"
+            - paragraph [ref=f19e239]: Children's Hospitals
+          - generic [ref=f19e240]:
+            - generic [ref=f19e241]:
+              - img "Eye Care Centers"
+            - paragraph [ref=f19e247]: Eye Care Centers
+          - generic [ref=f19e248]:
+            - generic [ref=f19e249]:
+              - img "Dental Clinics"
+            - paragraph [ref=f19e255]: Dental Clinics
+          - generic [ref=f19e256]:
+            - generic [ref=f19e257]:
+              - img "Orthopedic Centers"
+            - paragraph [ref=f19e262]: Orthopedic Centers
+          - generic [ref=f19e263]:
+            - generic [ref=f19e264]:
+              - img "Rehabilitation Centers"
+            - paragraph [ref=f19e273]: Rehabilitation Centers
+          - generic [ref=f19e274]:
+            - generic [ref=f19e275]:
+              - img "Mental Health Centers"
+            - paragraph [ref=f19e286]: Mental Health Centers
+          - generic [ref=f19e287]:
+            - generic [ref=f19e288]:
+              - img "Blood Banks"
+            - paragraph [ref=f19e293]: Blood Banks
+      - generic [ref=f19e295]:
+        - generic [ref=f19e296]:
+          - generic [ref=f19e297]: Why Choose WorkDo
+          - heading "Solving Healthcare Challenges with One Connected System" [level=2] [ref=f19e298]
+          - paragraph [ref=f19e299]: Replace disconnected systems with a modern hospital management system that automates operations across every department.
+        - generic [ref=f19e300]:
+          - generic [ref=f19e301]:
+            - img "Why Hospitals Choose WorkDo" [ref=f19e302]
+            - heading "Why Hospitals Choose WorkDo" [level=3] [ref=f19e303]
+            - list [ref=f19e304]:
+              - listitem [ref=f19e305]:
+                - generic [ref=f19e309]: Complete ecosystem with 18 modules
+              - listitem [ref=f19e310]:
+                - generic [ref=f19e314]: All modules work together seamlessly
+              - listitem [ref=f19e315]:
+                - generic [ref=f19e319]: No extra subscriptions - every module is included
+              - listitem [ref=f19e320]:
+                - generic [ref=f19e324]: One-time payment. No hidden costs.
+              - listitem [ref=f19e325]:
+                - generic [ref=f19e329]: Designed for hospitals, not just software
+              - listitem [ref=f19e330]:
+                - generic [ref=f19e334]: Easy to use for non-technical users
+              - listitem [ref=f19e335]:
+                - generic [ref=f19e339]: Improve efficiency and patient satisfaction
+          - generic [ref=f19e340]:
+            - img "Hospital Challenges We Solve" [ref=f19e341]
+            - heading "Hospital Challenges We Solve" [level=3] [ref=f19e342]
+            - list [ref=f19e343]:
+              - listitem [ref=f19e344]:
+                - generic [ref=f19e349]: Managing multiple disconnected systems
+              - listitem [ref=f19e350]:
+                - generic [ref=f19e355]: Manual paperwork and human errors
+              - listitem [ref=f19e356]:
+                - generic [ref=f19e361]: Long waiting times and queue management
+              - listitem [ref=f19e362]:
+                - generic [ref=f19e367]: Complex billing and insurance processes
+              - listitem [ref=f19e368]:
+                - generic [ref=f19e373]: Poor communication and follow-ups
+              - listitem [ref=f19e374]:
+                - generic [ref=f19e379]: Data scattered across departments
+              - listitem [ref=f19e380]:
+                - generic [ref=f19e385]: High operational costs and inefficiencies
+      - generic [ref=f19e387]:
+        - generic [ref=f19e388]:
+          - generic [ref=f19e389]: SOFTWARE CAPABILITIES
+          - heading "Everything You Need in a Hospital Management System" [level=2] [ref=f19e390]
+          - paragraph [ref=f19e391]: Every capability your hospital management system needs - from patient care to lab operations to billing - built into one powerful, unified platform.
+        - generic [ref=f19e392]:
+          - list [ref=f19e394]:
+            - listitem [ref=f19e395]:
+              - generic [ref=f19e396] [cursor=pointer]:
+                - generic [ref=f19e397]: "01"
+                - generic [ref=f19e398]: Appointment Scheduling
+            - listitem [ref=f19e399]:
+              - generic [ref=f19e400] [cursor=pointer]:
+                - generic [ref=f19e401]: "02"
+                - generic [ref=f19e402]: Centralized Patient Records
+            - listitem [ref=f19e403]:
+              - generic [ref=f19e404] [cursor=pointer]:
+                - generic [ref=f19e405]: "03"
+                - generic [ref=f19e406]: Real-Time Bed Availability
+            - listitem [ref=f19e407]:
+              - generic [ref=f19e408] [cursor=pointer]:
+                - generic [ref=f19e409]: "04"
+                - generic [ref=f19e410]: Digital Medical Record Management
+            - listitem [ref=f19e411]:
+              - generic [ref=f19e412] [cursor=pointer]:
+                - generic [ref=f19e413]: "05"
+                - generic [ref=f19e414]: Doctor & Staff Management
+            - listitem [ref=f19e415]:
+              - generic [ref=f19e416] [cursor=pointer]:
+                - generic [ref=f19e417]: "06"
+                - generic [ref=f19e418]: Patient Registry & Profiles
+          - generic [ref=f19e421]:
+            - generic [ref=f19e422]: Workdo Dash SaaS
+            - img "Appointment Scheduling" [ref=f19e433]
+        - generic [ref=f19e434]:
+          - link "get the software" [ref=f19e435] [cursor=pointer]:
+            - /url: javascript:void(0);
+          - link "view live demo" [ref=f19e440] [cursor=pointer]:
+            - /url: https://dash-demo.workdo.io/demo-login?addons=HospitalManagement,MedicalLabManagement,BloodBank,RadiologyManagement,OpticalAndEyeCareCenter,DietAndNutritionConsultant,Appointment,VisitorManagement,LockerAndSafeDeposit,InsuranceManagement,BiometricAttendance,WhatsAppMessenger,Calendar,SmartDashboardAnalytics,AIBusinessAdvisor,SmartReports,NoticeBoard,SuggestionBox
+      - generic [ref=f19e444]:
+        - generic [ref=f19e445]:
+          - generic [ref=f19e446]: Patient Care Journey
+          - heading "Seamless Hospital Workflow Process" [level=2] [ref=f19e447]
+          - paragraph [ref=f19e448]: Experience an end-to-end connected workflow designed to streamline operations from initial booking to recovery.
+        - generic [ref=f19e449]:
+          - generic [ref=f19e451]:
+            - generic [ref=f19e452]: "1"
+            - heading "Appointment" [level=3] [ref=f19e459]
+            - paragraph [ref=f19e460]: Online & OPD booking
+          - generic [ref=f19e461]:
+            - generic [ref=f19e462]: "2"
+            - heading "Registration" [level=3] [ref=f19e467]
+            - paragraph [ref=f19e468]: Patient check-in
+          - generic [ref=f19e469]:
+            - generic [ref=f19e470]: "3"
+            - heading "Consultation" [level=3] [ref=f19e476]
+            - paragraph [ref=f19e477]: Doctor examination
+          - generic [ref=f19e478]:
+            - generic [ref=f19e479]: "4"
+            - heading "Diagnosis" [level=3] [ref=f19e483]
+            - paragraph [ref=f19e484]: Scans & evaluation
+          - generic [ref=f19e485]:
+            - generic [ref=f19e486]: "5"
+            - heading "Laboratory" [level=3] [ref=f19e490]
+            - paragraph [ref=f19e491]: Sample tests & reports
+          - generic [ref=f19e492]:
+            - generic [ref=f19e493]: "6"
+            - heading "Treatment" [level=3] [ref=f19e502]
+            - paragraph [ref=f19e503]: Prescription & care
+      - generic [ref=f19e505]:
+        - generic [ref=f19e506]:
+          - generic [ref=f19e507]: ALL-IN-ONE SOLUTION
+          - heading "18 Integrated Modules Inside Your Hospital Management System" [level=2] [ref=f19e508]
+          - paragraph [ref=f19e509]: Everything your healthcare facility needs - from OPD/IPD care and diagnostics to staff biometrics and WhatsApp chat - all in one unified hospital management system.
+        - generic [ref=f19e510]:
+          - generic [ref=f19e511]:
+            - generic [ref=f19e512]:
+              - generic [ref=f19e513]: Core Platform
+              - heading "Hospital Management" [level=3] [ref=f19e520]
+              - paragraph [ref=f19e521]: Complete inpatient (IPD) and outpatient (OPD) care, ward and bed allocation, doctor scheduling, electronic prescriptions, and clinical billing.
+            - generic [ref=f19e522]:
+              - link "Explore Module" [ref=f19e523] [cursor=pointer]:
+                - /url: https://workdo.io/product/dash-saas-add-ons/hospital-management-dash-saas-add-on/
+              - generic [ref=f19e526]: Included
+          - generic [ref=f19e527]:
+            - generic [ref=f19e528]:
+              - generic "Explore Medical Lab Management" [ref=f19e533]
+              - heading "Medical Lab Management" [level=3] [ref=f19e537]
+              - paragraph [ref=f19e538]: Pathology test ordering, sample logging with unique sample codes, parameter results with reference ranges, automated result entry, and digital patient delivery.
+            - generic [ref=f19e539]:
+              - link "Explore Module" [ref=f19e540] [cursor=pointer]:
+                - /url: https://workdo.io/product/dash-saas-add-ons/medical-lab-management-dash-saas-add-on/
+              - generic [ref=f19e543]: Included
+          - generic [ref=f19e544]:
+            - generic [ref=f19e545]:
+              - generic "Explore Blood Bank" [ref=f19e550]
+              - heading "Blood Bank" [level=3] [ref=f19e554]
+              - paragraph [ref=f19e555]: Donor registries, blood group inventory tracking, component separation, and transfusion audits.
+            - generic [ref=f19e556]:
+              - link "Explore Module" [ref=f19e557] [cursor=pointer]:
+                - /url: https://workdo.io/product/dash-saas-add-ons/blood-bank-dash-saas-add-on/
+              - generic [ref=f19e560]: Included
+          - generic [ref=f19e561]:
+            - generic [ref=f19e562]:
+              - generic "Explore Radiology Management" [ref=f19e570]
+              - heading "Radiology Management" [level=3] [ref=f19e574]
+              - paragraph [ref=f19e575]: X-Ray, CT, MRI, Ultrasound scan scheduling, digital imaging attachments, and radiologist reports.
+            - generic [ref=f19e576]:
+              - link "Explore Module" [ref=f19e577] [cursor=pointer]:
+                - /url: https://workdo.io/product/dash-saas-add-ons/radiology-management-dash-saas-add-on/
+              - generic [ref=f19e580]: Included
+          - generic [ref=f19e581]:
+            - generic [ref=f19e582]:
+              - generic "Explore Optical & Eye Care Center" [ref=f19e588]
+              - heading "Optical & Eye Care Center" [level=3] [ref=f19e592]
+              - paragraph [ref=f19e593]: Vision acuity tests, ophthalmic prescriptions, lens & frame inventory, and optical orders.
+            - generic [ref=f19e594]:
+              - link "Explore Module" [ref=f19e595] [cursor=pointer]:
+                - /url: https://workdo.io/product/dash-saas-add-ons/optical-eye-care-center-dash-saas-add-on/
+              - generic [ref=f19e598]: Included
+          - generic [ref=f19e599]:
+            - generic [ref=f19e600]:
+              - generic "Explore Diet & Nutrition Consultant" [ref=f19e606]
+              - heading "Diet & Nutrition Consultant" [level=3] [ref=f19e610]
+              - paragraph [ref=f19e611]: Diet plan charts by category and goal, dietitian appointments and schedules, and diet progress tracking.
+            - generic [ref=f19e612]:
+              - link "Explore Module" [ref=f19e613] [cursor=pointer]:
+                - /url: https://workdo.io/product/dash-saas-add-ons/diet-nutrition-consultant-dash-saas-add-on/
+              - generic [ref=f19e616]: Included
+          - generic [ref=f19e617]:
+            - generic [ref=f19e618]:
+              - generic "Explore Appointment Scheduling" [ref=f19e626]
+              - heading "Appointment Scheduling" [level=3] [ref=f19e630]
+              - paragraph [ref=f19e631]: Doctor consultation scheduling with a shareable public booking link and approved/pending schedule reminders.
+            - generic [ref=f19e632]:
+              - link "Explore Module" [ref=f19e633] [cursor=pointer]:
+                - /url: https://workdo.io/product/dash-saas-add-ons/appointment-dash-saas-add-on/
+              - generic [ref=f19e636]: Included
+          - generic [ref=f19e637]:
+            - generic [ref=f19e638]:
+              - generic "Explore Visitor Management" [ref=f19e645]
+              - heading "Visitor Management" [level=3] [ref=f19e649]
+              - paragraph [ref=f19e650]: Digital visitor passes, visiting hour control, patient visitor logs, and secure ward check-ins.
+            - generic [ref=f19e651]:
+              - link "Explore Module" [ref=f19e652] [cursor=pointer]:
+                - /url: https://workdo.io/product/dash-saas-add-ons/visitor-management-dash-saas-add-on/
+              - generic [ref=f19e655]: Included
+          - generic [ref=f19e656]:
+            - generic [ref=f19e657]:
+              - generic "Explore Locker & Safe Deposit" [ref=f19e671]
+              - heading "Locker & Safe Deposit" [level=3] [ref=f19e675]
+              - paragraph [ref=f19e676]: Secure patient belongings tracking upon admission, locker allocations, and release verification.
+            - generic [ref=f19e677]:
+              - link "Explore Module" [ref=f19e678] [cursor=pointer]:
+                - /url: https://workdo.io/product/dash-saas-add-ons/locker-safe-deposit-dash-saas-add-on/
+              - generic [ref=f19e681]: Included
+          - generic [ref=f19e682]:
+            - generic [ref=f19e683]:
+              - generic "Explore Insurance Management" [ref=f19e689]
+              - heading "Insurance Management" [level=3] [ref=f19e693]
+              - paragraph [ref=f19e694]: Patient policy records with claim approval or rejection, claim payment status, and premium invoice billing.
+            - generic [ref=f19e695]:
+              - link "Explore Module" [ref=f19e696] [cursor=pointer]:
+                - /url: https://workdo.io/product/dash-saas-add-ons/insurance-management-dash-saas-add-on/
+              - generic [ref=f19e699]: Included
+          - generic [ref=f19e700]:
+            - generic [ref=f19e701]:
+              - generic "Explore Biometric Attendance" [ref=f19e713]
+              - heading "Biometric Attendance" [level=3] [ref=f19e717]
+              - paragraph [ref=f19e718]: Hardware biometric sync for doctor & nursing shift logs, overtime tracking, and payroll export.
+            - generic [ref=f19e719]:
+              - link "Explore Module" [ref=f19e720] [cursor=pointer]:
+                - /url: https://workdo.io/product/dash-saas-add-ons/biometric-attendance-dash-saas-add-on/
+              - generic [ref=f19e723]: Included
+          - generic [ref=f19e724]:
+            - generic [ref=f19e725]:
+              - generic "Explore WhatsApp Messenger" [ref=f19e730]
+              - heading "WhatsApp Messenger" [level=3] [ref=f19e734]
+              - paragraph [ref=f19e735]: A one-click WhatsApp chat button on your hospital website, switched on per module so patients can message reception summaries.
+            - generic [ref=f19e736]:
+              - link "Explore Module" [ref=f19e737] [cursor=pointer]:
+                - /url: https://workdo.io/product/dash-saas-add-ons/whatsapp-messenger-dash-saas-add-on/
+              - generic [ref=f19e740]: Included
+          - generic [ref=f19e741]:
+            - generic [ref=f19e742]:
+              - generic "Explore Google Calendar Sync" [ref=f19e751]
+              - heading "Google Calendar Sync" [level=3] [ref=f19e755]
+              - paragraph [ref=f19e756]: Sync doctor appointments and surgeries into your hospital Google Calendar, with a Calendar / Google Calendar view switch.
+            - generic [ref=f19e757]:
+              - link "Explore Module" [ref=f19e758] [cursor=pointer]:
+                - /url: https://workdo.io/product/dash-saas-add-ons/calendar-dash-saas-add-on/
+              - generic [ref=f19e761]: Included
+          - generic [ref=f19e762]:
+            - generic [ref=f19e763]:
+              - generic "Explore Smart Dashboard Analytics" [ref=f19e771]
+              - heading "Smart Dashboard Analytics" [level=3] [ref=f19e775]
+              - paragraph [ref=f19e776]: Track live hospital revenue, bed occupancy, doctor schedules, and patient admissions.
+            - generic [ref=f19e777]:
+              - link "Explore Module" [ref=f19e778] [cursor=pointer]:
+                - /url: https://workdo.io/product/dash-saas-add-ons/smart-dashboard-analytics-dash-saas-add-on/
+              - generic [ref=f19e781]: Included
+          - generic [ref=f19e782]:
+            - generic [ref=f19e783]:
+              - generic "Explore AI Business Advisor" [ref=f19e789]
+              - heading "AI Business Advisor" [level=3] [ref=f19e793]
+              - paragraph [ref=f19e794]: Actionable AI recommendations and patient flow forecasts for hospital operations.
+            - generic [ref=f19e795]:
+              - link "Explore Module" [ref=f19e796] [cursor=pointer]:
+                - /url: https://workdo.io/product/dash-saas-add-ons/ai-business-advisor-dash-saas-add-on/
+              - generic [ref=f19e799]: Included
+          - generic [ref=f19e800]:
+            - generic [ref=f19e801]:
+              - generic "Explore Smart Reports" [ref=f19e807]
+              - heading "Smart Reports" [level=3] [ref=f19e811]
+              - paragraph [ref=f19e812]: Create detailed reports on patient billing, lab tests, doctor consultations, and revenue.
+            - generic [ref=f19e813]:
+              - link "Explore Module" [ref=f19e814] [cursor=pointer]:
+                - /url: https://workdo.io/product/dash-saas-add-ons/smart-reports-dash-saas-add-on/
+              - generic [ref=f19e817]: Included
+          - generic [ref=f19e818]:
+            - generic [ref=f19e819]:
+              - generic "Explore Notice Board" [ref=f19e826]
+              - heading "Notice Board" [level=3] [ref=f19e830]
+              - paragraph [ref=f19e831]: Publish clinical announcements, safety protocols, and medical staff duty rosters.
+            - generic [ref=f19e832]:
+              - link "Explore Module" [ref=f19e833] [cursor=pointer]:
+                - /url: https://workdo.io/product/dash-saas-add-ons/notice-board-dash-saas-add-on/
+              - generic [ref=f19e836]: Included
+          - generic [ref=f19e837]:
+            - generic [ref=f19e838]:
+              - generic "Explore Suggestion Box" [ref=f19e843]
+              - heading "Suggestion Box" [level=3] [ref=f19e847]
+              - paragraph [ref=f19e848]: Collect anonymous staff feedback to improve healthcare facility operations.
+            - generic [ref=f19e849]:
+              - link "Explore Module" [ref=f19e850] [cursor=pointer]:
+                - /url: https://workdo.io/product/dash-saas-add-ons/suggestion-box-dash-saas-add-on/
+              - generic [ref=f19e853]: Included
+          - generic [ref=f19e854]:
+            - generic [ref=f19e855]:
+              - generic [ref=f19e856]: All-in-One Suite
+              - heading "All 18 Modules Included Out-of-the-Box" [level=3] [ref=f19e862]
+              - paragraph [ref=f19e863]: One unified system, one master login, and zero add-on purchases required. Every feature is fully unlocked and ready to power your hospital from day one.
+            - generic [ref=f19e864]:
+              - link "Explore All Modules" [ref=f19e865] [cursor=pointer]:
+                - /url: https://dash-demo.workdo.io/demo-login?addons=HospitalManagement,MedicalLabManagement,BloodBank,RadiologyManagement,OpticalAndEyeCareCenter,DietAndNutritionConsultant,Appointment,VisitorManagement,LockerAndSafeDeposit,InsuranceManagement,BiometricAttendance,WhatsAppMessenger,Calendar,SmartDashboardAnalytics,AIBusinessAdvisor,SmartReports,NoticeBoard,SuggestionBox
+              - generic [ref=f19e868]: 100% Unlocked
+      - generic [ref=f19e869]:
+        - generic [ref=f19e871]:
+          - generic [ref=f19e872]: premium interfaces
+          - heading "A Modern, Interface for Your Hospital Management System" [level=2] [ref=f19e873]
+          - paragraph [ref=f19e874]: Explore the fully responsive booking portals, dashboards, and schedules built into your hospital management system - designed for absolute visual excellence.
+        - generic [ref=f19e875]:
+          - generic [ref=f19e876]:
+            - group "10 / 11" [ref=f19e877]:
+              - generic [ref=f19e878]:
+                - generic [ref=f19e879]: WorkDo Dash SaaS
+                - generic [ref=f19e886]:
+                  - link "Medicine Inventory & Pharmacy":
+                    - /url: https://dash-demo.workdo.io/demo-login?addons=HospitalManagement,MedicalLabManagement,BloodBank,RadiologyManagement,OpticalAndEyeCareCenter,DietAndNutritionConsultant,Appointment,VisitorManagement,LockerAndSafeDeposit,InsuranceManagement,BiometricAttendance,WhatsAppMessenger,Calendar,SmartDashboardAnalytics,AIBusinessAdvisor,SmartReports,NoticeBoard,SuggestionBox
+                    - img "Medicine Inventory & Pharmacy"
+                - generic [ref=f19e887]:
+                  - heading "Medicine Inventory & Pharmacy" [level=3] [ref=f19e889]
+                  - link "Explore the live demo" [ref=f19e891] [cursor=pointer]:
+                    - /url: https://dash-demo.workdo.io/demo-login?addons=HospitalManagement,MedicalLabManagement,BloodBank,RadiologyManagement,OpticalAndEyeCareCenter,DietAndNutritionConsultant,Appointment,VisitorManagement,LockerAndSafeDeposit,InsuranceManagement,BiometricAttendance,WhatsAppMessenger,Calendar,SmartDashboardAnalytics,AIBusinessAdvisor,SmartReports,NoticeBoard,SuggestionBox
+            - group "11 / 11" [ref=f19e895]:
+              - generic [ref=f19e896]:
+                - generic [ref=f19e897]: WorkDo Dash SaaS
+                - generic [ref=f19e904]:
+                  - link "Hospital Visitor Management":
+                    - /url: https://dash-demo.workdo.io/demo-login?addons=HospitalManagement,MedicalLabManagement,BloodBank,RadiologyManagement,OpticalAndEyeCareCenter,DietAndNutritionConsultant,Appointment,VisitorManagement,LockerAndSafeDeposit,InsuranceManagement,BiometricAttendance,WhatsAppMessenger,Calendar,SmartDashboardAnalytics,AIBusinessAdvisor,SmartReports,NoticeBoard,SuggestionBox
+                    - img "Hospital Visitor Management"
+                - generic [ref=f19e905]:
+                  - heading "Hospital Visitor Management" [level=3] [ref=f19e907]
+                  - link "Explore the live demo" [ref=f19e909] [cursor=pointer]:
+                    - /url: https://dash-demo.workdo.io/demo-login?addons=HospitalManagement,MedicalLabManagement,BloodBank,RadiologyManagement,OpticalAndEyeCareCenter,DietAndNutritionConsultant,Appointment,VisitorManagement,LockerAndSafeDeposit,InsuranceManagement,BiometricAttendance,WhatsAppMessenger,Calendar,SmartDashboardAnalytics,AIBusinessAdvisor,SmartReports,NoticeBoard,SuggestionBox
+            - group "1 / 11" [ref=f19e913]:
+              - generic [ref=f19e914]:
+                - generic [ref=f19e915]: WorkDo Dash SaaS
+                - generic [ref=f19e922]:
+                  - link "Complete Hospital Command Center":
+                    - /url: https://dash-demo.workdo.io/demo-login?addons=HospitalManagement,MedicalLabManagement,BloodBank,RadiologyManagement,OpticalAndEyeCareCenter,DietAndNutritionConsultant,Appointment,VisitorManagement,LockerAndSafeDeposit,InsuranceManagement,BiometricAttendance,WhatsAppMessenger,Calendar,SmartDashboardAnalytics,AIBusinessAdvisor,SmartReports,NoticeBoard,SuggestionBox
+                    - img "Complete Hospital Command Center"
+                - generic [ref=f19e923]:
+                  - heading "Complete Hospital Command Center" [level=3] [ref=f19e925]
+                  - link "Explore the live demo" [ref=f19e927] [cursor=pointer]:
+                    - /url: https://dash-demo.workdo.io/demo-login?addons=HospitalManagement,MedicalLabManagement,BloodBank,RadiologyManagement,OpticalAndEyeCareCenter,DietAndNutritionConsultant,Appointment,VisitorManagement,LockerAndSafeDeposit,InsuranceManagement,BiometricAttendance,WhatsAppMessenger,Calendar,SmartDashboardAnalytics,AIBusinessAdvisor,SmartReports,NoticeBoard,SuggestionBox
+            - group "2 / 11" [ref=f19e931]:
+              - generic [ref=f19e932]:
+                - generic [ref=f19e933]: WorkDo Dash SaaS
+                - generic [ref=f19e940]:
+                  - link "Manage Doctors & Medical Staff":
+                    - /url: https://dash-demo.workdo.io/demo-login?addons=HospitalManagement,MedicalLabManagement,BloodBank,RadiologyManagement,OpticalAndEyeCareCenter,DietAndNutritionConsultant,Appointment,VisitorManagement,LockerAndSafeDeposit,InsuranceManagement,BiometricAttendance,WhatsAppMessenger,Calendar,SmartDashboardAnalytics,AIBusinessAdvisor,SmartReports,NoticeBoard,SuggestionBox
+                    - img "Manage Doctors & Medical Staff"
+                - generic [ref=f19e941]:
+                  - heading "Manage Doctors & Medical Staff" [level=3] [ref=f19e943]
+                  - link "Explore the live demo" [ref=f19e945] [cursor=pointer]:
+                    - /url: https://dash-demo.workdo.io/demo-login?addons=HospitalManagement,MedicalLabManagement,BloodBank,RadiologyManagement,OpticalAndEyeCareCenter,DietAndNutritionConsultant,Appointment,VisitorManagement,LockerAndSafeDeposit,InsuranceManagement,BiometricAttendance,WhatsAppMessenger,Calendar,SmartDashboardAnalytics,AIBusinessAdvisor,SmartReports,NoticeBoard,SuggestionBox
+            - group "3 / 11" [ref=f19e949]:
+              - generic [ref=f19e950]:
+                - generic [ref=f19e951]: WorkDo Dash SaaS
+                - generic [ref=f19e958]:
+                  - link "Centralized Patient Records":
+                    - /url: https://dash-demo.workdo.io/demo-login?addons=HospitalManagement,MedicalLabManagement,BloodBank,RadiologyManagement,OpticalAndEyeCareCenter,DietAndNutritionConsultant,Appointment,VisitorManagement,LockerAndSafeDeposit,InsuranceManagement,BiometricAttendance,WhatsAppMessenger,Calendar,SmartDashboardAnalytics,AIBusinessAdvisor,SmartReports,NoticeBoard,SuggestionBox
+                    - img "Centralized Patient Records"
+                - generic [ref=f19e959]:
+                  - heading "Centralized Patient Records" [level=3] [ref=f19e961]
+                  - link "Explore the live demo" [ref=f19e963] [cursor=pointer]:
+                    - /url: https://dash-demo.workdo.io/demo-login?addons=HospitalManagement,MedicalLabManagement,BloodBank,RadiologyManagement,OpticalAndEyeCareCenter,DietAndNutritionConsultant,Appointment,VisitorManagement,LockerAndSafeDeposit,InsuranceManagement,BiometricAttendance,WhatsAppMessenger,Calendar,SmartDashboardAnalytics,AIBusinessAdvisor,SmartReports,NoticeBoard,SuggestionBox
+            - group "4 / 11" [ref=f19e967]:
+              - generic [ref=f19e968]:
+                - generic [ref=f19e969]: WorkDo Dash SaaS
+                - generic [ref=f19e976]:
+                  - link "Smart Appointment Scheduling":
+                    - /url: https://dash-demo.workdo.io/demo-login?addons=HospitalManagement,MedicalLabManagement,BloodBank,RadiologyManagement,OpticalAndEyeCareCenter,DietAndNutritionConsultant,Appointment,VisitorManagement,LockerAndSafeDeposit,InsuranceManagement,BiometricAttendance,WhatsAppMessenger,Calendar,SmartDashboardAnalytics,AIBusinessAdvisor,SmartReports,NoticeBoard,SuggestionBox
+                    - img "Smart Appointment Scheduling"
+                - generic [ref=f19e977]:
+                  - heading "Smart Appointment Scheduling" [level=3] [ref=f19e979]
+                  - link "Explore the live demo" [ref=f19e981] [cursor=pointer]:
+                    - /url: https://dash-demo.workdo.io/demo-login?addons=HospitalManagement,MedicalLabManagement,BloodBank,RadiologyManagement,OpticalAndEyeCareCenter,DietAndNutritionConsultant,Appointment,VisitorManagement,LockerAndSafeDeposit,InsuranceManagement,BiometricAttendance,WhatsAppMessenger,Calendar,SmartDashboardAnalytics,AIBusinessAdvisor,SmartReports,NoticeBoard,SuggestionBox
+            - group "5 / 11" [ref=f19e985]:
+              - generic [ref=f19e986]:
+                - generic [ref=f19e987]: WorkDo Dash SaaS
+                - generic [ref=f19e994]:
+                  - link "Real-Time Bed Availability":
+                    - /url: https://dash-demo.workdo.io/demo-login?addons=HospitalManagement,MedicalLabManagement,BloodBank,RadiologyManagement,OpticalAndEyeCareCenter,DietAndNutritionConsultant,Appointment,VisitorManagement,LockerAndSafeDeposit,InsuranceManagement,BiometricAttendance,WhatsAppMessenger,Calendar,SmartDashboardAnalytics,AIBusinessAdvisor,SmartReports,NoticeBoard,SuggestionBox
+                    - img "Real-Time Bed Availability"
+                - generic [ref=f19e995]:
+                  - heading "Real-Time Bed Availability" [level=3] [ref=f19e997]
+                  - link "Explore the live demo" [ref=f19e999] [cursor=pointer]:
+                    - /url: https://dash-demo.workdo.io/demo-login?addons=HospitalManagement,MedicalLabManagement,BloodBank,RadiologyManagement,OpticalAndEyeCareCenter,DietAndNutritionConsultant,Appointment,VisitorManagement,LockerAndSafeDeposit,InsuranceManagement,BiometricAttendance,WhatsAppMessenger,Calendar,SmartDashboardAnalytics,AIBusinessAdvisor,SmartReports,NoticeBoard,SuggestionBox
+            - group "6 / 11" [ref=f19e1003]:
+              - generic [ref=f19e1004]:
+                - generic [ref=f19e1005]: WorkDo Dash SaaS
+                - generic [ref=f19e1012]:
+                  - link "Digital Medical Record Management":
+                    - /url: https://dash-demo.workdo.io/demo-login?addons=HospitalManagement,MedicalLabManagement,BloodBank,RadiologyManagement,OpticalAndEyeCareCenter,DietAndNutritionConsultant,Appointment,VisitorManagement,LockerAndSafeDeposit,InsuranceManagement,BiometricAttendance,WhatsAppMessenger,Calendar,SmartDashboardAnalytics,AIBusinessAdvisor,SmartReports,NoticeBoard,SuggestionBox
+                    - img "Digital Medical Record Management"
+                - generic [ref=f19e1013]:
+                  - heading "Digital Medical Record Management" [level=3] [ref=f19e1015]
+                  - link "Explore the live demo" [ref=f19e1017] [cursor=pointer]:
+                    - /url: https://dash-demo.workdo.io/demo-login?addons=HospitalManagement,MedicalLabManagement,BloodBank,RadiologyManagement,OpticalAndEyeCareCenter,DietAndNutritionConsultant,Appointment,VisitorManagement,LockerAndSafeDeposit,InsuranceManagement,BiometricAttendance,WhatsAppMessenger,Calendar,SmartDashboardAnalytics,AIBusinessAdvisor,SmartReports,NoticeBoard,SuggestionBox
+            - group "7 / 11" [ref=f19e1021]:
+              - generic [ref=f19e1022]:
+                - generic [ref=f19e1023]: WorkDo Dash SaaS
+                - generic [ref=f19e1030]:
+                  - link "Laboratory Test Management":
+                    - /url: https://dash-demo.workdo.io/demo-login?addons=HospitalManagement,MedicalLabManagement,BloodBank,RadiologyManagement,OpticalAndEyeCareCenter,DietAndNutritionConsultant,Appointment,VisitorManagement,LockerAndSafeDeposit,InsuranceManagement,BiometricAttendance,WhatsAppMessenger,Calendar,SmartDashboardAnalytics,AIBusinessAdvisor,SmartReports,NoticeBoard,SuggestionBox
+                    - img "Laboratory Test Management"
+                - generic [ref=f19e1031]:
+                  - heading "Laboratory Test Management" [level=3] [ref=f19e1033]
+                  - link "Explore the live demo" [ref=f19e1035] [cursor=pointer]:
+                    - /url: https://dash-demo.workdo.io/demo-login?addons=HospitalManagement,MedicalLabManagement,BloodBank,RadiologyManagement,OpticalAndEyeCareCenter,DietAndNutritionConsultant,Appointment,VisitorManagement,LockerAndSafeDeposit,InsuranceManagement,BiometricAttendance,WhatsAppMessenger,Calendar,SmartDashboardAnalytics,AIBusinessAdvisor,SmartReports,NoticeBoard,SuggestionBox
+            - group "8 / 11" [ref=f19e1039]:
+              - generic [ref=f19e1040]:
+                - generic [ref=f19e1041]: WorkDo Dash SaaS
+                - generic [ref=f19e1048]:
+                  - link "Surgery Planning & Scheduling":
+                    - /url: https://dash-demo.workdo.io/demo-login?addons=HospitalManagement,MedicalLabManagement,BloodBank,RadiologyManagement,OpticalAndEyeCareCenter,DietAndNutritionConsultant,Appointment,VisitorManagement,LockerAndSafeDeposit,InsuranceManagement,BiometricAttendance,WhatsAppMessenger,Calendar,SmartDashboardAnalytics,AIBusinessAdvisor,SmartReports,NoticeBoard,SuggestionBox
+                    - img "Surgery Planning & Scheduling"
+                - generic [ref=f19e1049]:
+                  - heading "Surgery Planning & Scheduling" [level=3] [ref=f19e1051]
+                  - link "Explore the live demo" [ref=f19e1053] [cursor=pointer]:
+                    - /url: https://dash-demo.workdo.io/demo-login?addons=HospitalManagement,MedicalLabManagement,BloodBank,RadiologyManagement,OpticalAndEyeCareCenter,DietAndNutritionConsultant,Appointment,VisitorManagement,LockerAndSafeDeposit,InsuranceManagement,BiometricAttendance,WhatsAppMessenger,Calendar,SmartDashboardAnalytics,AIBusinessAdvisor,SmartReports,NoticeBoard,SuggestionBox
+            - group "9 / 11" [ref=f19e1057]:
+              - generic [ref=f19e1058]:
+                - generic [ref=f19e1059]: WorkDo Dash SaaS
+                - generic [ref=f19e1066]:
+                  - link "Ambulance Fleet Management":
+                    - /url: https://dash-demo.workdo.io/demo-login?addons=HospitalManagement,MedicalLabManagement,BloodBank,RadiologyManagement,OpticalAndEyeCareCenter,DietAndNutritionConsultant,Appointment,VisitorManagement,LockerAndSafeDeposit,InsuranceManagement,BiometricAttendance,WhatsAppMessenger,Calendar,SmartDashboardAnalytics,AIBusinessAdvisor,SmartReports,NoticeBoard,SuggestionBox
+                    - img "Ambulance Fleet Management"
+                - generic [ref=f19e1067]:
+                  - heading "Ambulance Fleet Management" [level=3] [ref=f19e1069]
+                  - link "Explore the live demo" [ref=f19e1071] [cursor=pointer]:
+                    - /url: https://dash-demo.workdo.io/demo-login?addons=HospitalManagement,MedicalLabManagement,BloodBank,RadiologyManagement,OpticalAndEyeCareCenter,DietAndNutritionConsultant,Appointment,VisitorManagement,LockerAndSafeDeposit,InsuranceManagement,BiometricAttendance,WhatsAppMessenger,Calendar,SmartDashboardAnalytics,AIBusinessAdvisor,SmartReports,NoticeBoard,SuggestionBox
+            - group "10 / 11" [ref=f19e1075]:
+              - generic [ref=f19e1076]:
+                - generic [ref=f19e1077]: WorkDo Dash SaaS
+                - generic [ref=f19e1084]:
+                  - link "Medicine Inventory & Pharmacy":
+                    - /url: https://dash-demo.workdo.io/demo-login?addons=HospitalManagement,MedicalLabManagement,BloodBank,RadiologyManagement,OpticalAndEyeCareCenter,DietAndNutritionConsultant,Appointment,VisitorManagement,LockerAndSafeDeposit,InsuranceManagement,BiometricAttendance,WhatsAppMessenger,Calendar,SmartDashboardAnalytics,AIBusinessAdvisor,SmartReports,NoticeBoard,SuggestionBox
+                    - img "Medicine Inventory & Pharmacy"
+                - generic [ref=f19e1085]:
+                  - heading "Medicine Inventory & Pharmacy" [level=3] [ref=f19e1087]
+                  - link "Explore the live demo" [ref=f19e1089] [cursor=pointer]:
+                    - /url: https://dash-demo.workdo.io/demo-login?addons=HospitalManagement,MedicalLabManagement,BloodBank,RadiologyManagement,OpticalAndEyeCareCenter,DietAndNutritionConsultant,Appointment,VisitorManagement,LockerAndSafeDeposit,InsuranceManagement,BiometricAttendance,WhatsAppMessenger,Calendar,SmartDashboardAnalytics,AIBusinessAdvisor,SmartReports,NoticeBoard,SuggestionBox
+            - group "11 / 11" [ref=f19e1093]:
+              - generic [ref=f19e1094]:
+                - generic [ref=f19e1095]: WorkDo Dash SaaS
+                - generic [ref=f19e1102]:
+                  - link "Hospital Visitor Management":
+                    - /url: https://dash-demo.workdo.io/demo-login?addons=HospitalManagement,MedicalLabManagement,BloodBank,RadiologyManagement,OpticalAndEyeCareCenter,DietAndNutritionConsultant,Appointment,VisitorManagement,LockerAndSafeDeposit,InsuranceManagement,BiometricAttendance,WhatsAppMessenger,Calendar,SmartDashboardAnalytics,AIBusinessAdvisor,SmartReports,NoticeBoard,SuggestionBox
+                    - img "Hospital Visitor Management"
+                - generic [ref=f19e1103]:
+                  - heading "Hospital Visitor Management" [level=3] [ref=f19e1105]
+                  - link "Explore the live demo" [ref=f19e1107] [cursor=pointer]:
+                    - /url: https://dash-demo.workdo.io/demo-login?addons=HospitalManagement,MedicalLabManagement,BloodBank,RadiologyManagement,OpticalAndEyeCareCenter,DietAndNutritionConsultant,Appointment,VisitorManagement,LockerAndSafeDeposit,InsuranceManagement,BiometricAttendance,WhatsAppMessenger,Calendar,SmartDashboardAnalytics,AIBusinessAdvisor,SmartReports,NoticeBoard,SuggestionBox
+            - group "1 / 11" [ref=f19e1111]:
+              - generic [ref=f19e1112]:
+                - generic [ref=f19e1113]: WorkDo Dash SaaS
+                - generic [ref=f19e1120]:
+                  - link "Complete Hospital Command Center":
+                    - /url: https://dash-demo.workdo.io/demo-login?addons=HospitalManagement,MedicalLabManagement,BloodBank,RadiologyManagement,OpticalAndEyeCareCenter,DietAndNutritionConsultant,Appointment,VisitorManagement,LockerAndSafeDeposit,InsuranceManagement,BiometricAttendance,WhatsAppMessenger,Calendar,SmartDashboardAnalytics,AIBusinessAdvisor,SmartReports,NoticeBoard,SuggestionBox
+                    - img "Complete Hospital Command Center"
+                - generic [ref=f19e1121]:
+                  - heading "Complete Hospital Command Center" [level=3] [ref=f19e1123]
+                  - link "Explore the live demo" [ref=f19e1125] [cursor=pointer]:
+                    - /url: https://dash-demo.workdo.io/demo-login?addons=HospitalManagement,MedicalLabManagement,BloodBank,RadiologyManagement,OpticalAndEyeCareCenter,DietAndNutritionConsultant,Appointment,VisitorManagement,LockerAndSafeDeposit,InsuranceManagement,BiometricAttendance,WhatsAppMessenger,Calendar,SmartDashboardAnalytics,AIBusinessAdvisor,SmartReports,NoticeBoard,SuggestionBox
+            - group "2 / 11" [ref=f19e1129]:
+              - generic [ref=f19e1130]:
+                - generic [ref=f19e1131]: WorkDo Dash SaaS
+                - generic [ref=f19e1138]:
+                  - link "Manage Doctors & Medical Staff":
+                    - /url: https://dash-demo.workdo.io/demo-login?addons=HospitalManagement,MedicalLabManagement,BloodBank,RadiologyManagement,OpticalAndEyeCareCenter,DietAndNutritionConsultant,Appointment,VisitorManagement,LockerAndSafeDeposit,InsuranceManagement,BiometricAttendance,WhatsAppMessenger,Calendar,SmartDashboardAnalytics,AIBusinessAdvisor,SmartReports,NoticeBoard,SuggestionBox
+                    - img "Manage Doctors & Medical Staff"
+                - generic [ref=f19e1139]:
+                  - heading "Manage Doctors & Medical Staff" [level=3] [ref=f19e1141]
+                  - link "Explore the live demo" [ref=f19e1143] [cursor=pointer]:
+                    - /url: https://dash-demo.workdo.io/demo-login?addons=HospitalManagement,MedicalLabManagement,BloodBank,RadiologyManagement,OpticalAndEyeCareCenter,DietAndNutritionConsultant,Appointment,VisitorManagement,LockerAndSafeDeposit,InsuranceManagement,BiometricAttendance,WhatsAppMessenger,Calendar,SmartDashboardAnalytics,AIBusinessAdvisor,SmartReports,NoticeBoard,SuggestionBox
+          - generic [ref=f19e1147]:
+            - button "Go to slide 1" [ref=f19e1148] [cursor=pointer]
+            - button "Go to slide 2" [ref=f19e1149] [cursor=pointer]
+            - button "Go to slide 3" [ref=f19e1150] [cursor=pointer]
+            - button "Go to slide 4" [ref=f19e1151] [cursor=pointer]
+            - button "Go to slide 5" [ref=f19e1152] [cursor=pointer]
+            - button "Go to slide 6" [ref=f19e1153] [cursor=pointer]
+            - button "Go to slide 7" [ref=f19e1154] [cursor=pointer]
+            - button "Go to slide 8" [ref=f19e1155] [cursor=pointer]
+            - button "Go to slide 9" [ref=f19e1156] [cursor=pointer]
+            - button "Go to slide 10" [ref=f19e1157] [cursor=pointer]
+            - button "Go to slide 11" [ref=f19e1158] [cursor=pointer]
+      - generic [ref=f19e1160]:
+        - generic [ref=f19e1161]:
+          - generic [ref=f19e1162]: Unbeatable Value
+          - heading "One Hospital Management System. Massive Savings." [level=2] [ref=f19e1163]
+          - paragraph [ref=f19e1164]: Get the complete hospital management system along with all 18 specialized hospital modules at a fraction of the cost.
+        - generic [ref=f19e1165]:
+          - generic [ref=f19e1166]:
+            - generic [ref=f19e1167]:
+              - generic [ref=f19e1168]:
+                - generic [ref=f19e1169]:
+                  - generic [ref=f19e1170]: Dash SaaS Base Platform
+                  - generic [ref=f19e1172]: $49
+                - generic [ref=f19e1173]:
+                  - generic [ref=f19e1174]: Hospital Management
+                  - generic [ref=f19e1176]: $69
+                - generic [ref=f19e1177]:
+                  - generic [ref=f19e1178]: Medical Lab Management
+                  - generic [ref=f19e1180]: $69
+                - generic [ref=f19e1181]:
+                  - generic [ref=f19e1182]: Blood Bank
+                  - generic [ref=f19e1184]: $69
+                - generic [ref=f19e1185]:
+                  - generic [ref=f19e1186]: Radiology Management
+                  - generic [ref=f19e1188]: $69
+                - generic [ref=f19e1189]:
+                  - generic [ref=f19e1190]: Optical & Eye Care Center
+                  - generic [ref=f19e1192]: $69
+                - generic [ref=f19e1193]:
+                  - generic [ref=f19e1194]: Diet & Nutrition Consultant
+                  - generic [ref=f19e1196]: $69
+                - generic [ref=f19e1197]:
+                  - generic [ref=f19e1198]: Insurance Management
+                  - generic [ref=f19e1200]: $69
+                - generic [ref=f19e1201]:
+                  - generic [ref=f19e1202]: Appointment
+                  - generic [ref=f19e1204]: $49
+                - generic [ref=f19e1205]:
+                  - generic [ref=f19e1206]: Visitor Management
+                  - generic [ref=f19e1208]: $69
+              - generic [ref=f19e1209]:
+                - generic [ref=f19e1210]:
+                  - generic [ref=f19e1211]: Biometric Attendance
+                  - generic [ref=f19e1213]: $49
+                - generic [ref=f19e1214]:
+                  - generic [ref=f19e1215]: WhatsApp Messenger
+                  - generic [ref=f19e1217]: $49
+                - generic [ref=f19e1218]:
+                  - generic [ref=f19e1219]: Google Calendar
+                  - generic [ref=f19e1221]: $49
+                - generic [ref=f19e1222]:
+                  - generic [ref=f19e1223]: Locker & Safe Deposit
+                  - generic [ref=f19e1225]: $69
+                - generic [ref=f19e1226]:
+                  - generic [ref=f19e1227]: Smart Dashboard Analytics
+                  - generic [ref=f19e1229]: $0 - included
+                - generic [ref=f19e1230]:
+                  - generic [ref=f19e1231]: AI Business Advisor
+                  - generic [ref=f19e1233]: $0 - included
+                - generic [ref=f19e1234]:
+                  - generic [ref=f19e1235]: Smart Reports
+                  - generic [ref=f19e1237]: $0 - included
+                - generic [ref=f19e1238]:
+                  - generic [ref=f19e1239]: Notice Board
+                  - generic [ref=f19e1241]: $0 - included
+                - generic [ref=f19e1242]:
+                  - generic [ref=f19e1243]: Suggestion Box
+                  - generic [ref=f19e1245]: $0 - included
+            - generic [ref=f19e1246]:
+              - generic [ref=f19e1247]:
+                - generic [ref=f19e1248]: Total if bought separately
+                - generic [ref=f19e1249]: $866
+              - paragraph [ref=f19e1250]: Total calculated based on standard standalone module prices. Get lifetime access to the complete Hospital Management suite with all core modules included.
+          - generic [ref=f19e1251]:
+            - generic [ref=f19e1252]:
+              - generic [ref=f19e1253]: Best Value
+              - heading "Complete Hospital Management Software" [level=3] [ref=f19e1254]
+              - paragraph [ref=f19e1255]: One-time payment for lifetime access, No recurring fees!
+              - generic [ref=f19e1256]:
+                - generic [ref=f19e1257]:
+                  - generic [ref=f19e1258]: $349
+                  - deletion [ref=f19e1259]: $866
+                - generic [ref=f19e1260]: One Time Payment
+              - link "get the software" [ref=f19e1261] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - img "hospital management software" [ref=f19e1267]
+      - generic [ref=f19e1268]:
+        - generic [ref=f19e1270]:
+          - generic [ref=f19e1271]: Testimonials
+          - heading "Trusted by Hospitals & Healthcare Facilities Worldwide" [level=2] [ref=f19e1272]
+        - generic [ref=f19e1275]:
+          - generic [ref=f19e1276]:
+            - figure "Marcus Vance Envato review" [ref=f19e1277]:
+              - img "Rated 4.7 out of 5" [ref=f19e1279]
+              - blockquote [ref=f19e1289]:
+                - paragraph [ref=f19e1290]: We admit dozens of patients every week across two branches. Every admission now has its doctor, bed allocation, lab requests and billing in one record.
+              - generic [ref=f19e1291]:
+                - generic [ref=f19e1292]: Marcus Vance
+                - img "Envato review" [ref=f19e1293]
+            - figure "Elena Rostova Envato review" [ref=f19e1296]:
+              - img "Rated 3.9 out of 5" [ref=f19e1298]
+              - blockquote [ref=f19e1308]:
+                - paragraph [ref=f19e1309]: Patients used to call the front desk just to check appointment times. A public booking link and one shared appointment calendar keep our waiting room organized.
+              - generic [ref=f19e1310]:
+                - generic [ref=f19e1311]: Elena Rostova
+                - img "Envato review" [ref=f19e1312]
+            - figure "Julian Davies Envato review" [ref=f19e1315]:
+              - img "Rated 4.4 out of 5" [ref=f19e1317]
+              - blockquote [ref=f19e1327]:
+                - paragraph [ref=f19e1328]: Our diagnostic lab tests used to take hours of manual entry. Samples are logged at the counter and lab reports attach straight to the patient file now.
+              - generic [ref=f19e1329]:
+                - generic [ref=f19e1330]: Julian Davies
+                - img "Envato review" [ref=f19e1331]
+            - figure "Teresa Almonte Envato review" [ref=f19e1334]:
+              - img "Rated 4.1 out of 5" [ref=f19e1336]
+              - blockquote [ref=f19e1346]:
+                - paragraph [ref=f19e1347]: Bed availability was tracked on a whiteboard by the nursing station. Now our team sees every vacant, occupied and reserved bed across all four wards.
+              - generic [ref=f19e1348]:
+                - generic [ref=f19e1349]: Teresa Almonte
+                - img "Envato review" [ref=f19e1350]
+            - figure "Alistair Finch Envato review" [ref=f19e1353]:
+              - img "Rated 4.9 out of 5" [ref=f19e1355]
+              - blockquote [ref=f19e1365]:
+                - paragraph [ref=f19e1366]: Blood bank units and donor records used to be a headache during emergencies. Blood groups, compatibility and expiry dates are visible in seconds.
+              - generic [ref=f19e1367]:
+                - generic [ref=f19e1368]: Alistair Finch
+                - img "Envato review" [ref=f19e1369]
+            - figure "Neha Kapoor Envato review" [ref=f19e1372]:
+              - img "Rated 4.2 out of 5" [ref=f19e1374]
+              - blockquote [ref=f19e1384]:
+                - paragraph [ref=f19e1385]: Our eye clinic does vision exams and frame sales every day. Optical prescriptions and lens inventory now sit in the same system as patient records.
+              - generic [ref=f19e1386]:
+                - generic [ref=f19e1387]: Neha Kapoor
+                - img "Envato review" [ref=f19e1388]
+            - figure "Kenneth Connor Envato review" [ref=f19e1391]:
+              - img "Rated 4.8 out of 5" [ref=f19e1393]
+              - blockquote [ref=f19e1403]:
+                - paragraph [ref=f19e1404]: Insurance paperwork used to delay patient discharge for hours. Policy details, claims and their payment status are all tracked in one place now.
+              - generic [ref=f19e1405]:
+                - generic [ref=f19e1406]: Kenneth Connor
+                - img "Envato review" [ref=f19e1407]
+            - figure "Ananya Sharma Envato review" [ref=f19e1410]:
+              - img "Rated 4.6 out of 5" [ref=f19e1412]
+              - blockquote [ref=f19e1422]:
+                - paragraph [ref=f19e1423]: Doctor duty rosters and night shifts used to be messy. Biometric attendance syncs straight into the system, so shift hours are always accurate.
+              - generic [ref=f19e1424]:
+                - generic [ref=f19e1425]: Ananya Sharma
+                - img "Envato review" [ref=f19e1426]
+            - figure "Farah El-Masri Envato review" [ref=f19e1429]:
+              - img "Rated 4.3 out of 5" [ref=f19e1431]
+              - blockquote [ref=f19e1441]:
+                - paragraph [ref=f19e1442]: Radiology scans and reports are linked directly to each patient ID. Doctors can review X-ray summaries and imaging notes without waiting for paper files.
+              - generic [ref=f19e1443]:
+                - generic [ref=f19e1444]: Farah El-Masri
+                - img "Envato review" [ref=f19e1445]
+            - figure "David Chen Envato review" [ref=f19e1448]:
+              - img "Rated 5 out of 5" [ref=f19e1450]
+              - blockquote [ref=f19e1460]:
+                - paragraph [ref=f19e1461]: Ward visitors used to wander in during rest hours. Digital visitor badges and check-ins at the reception keep our recovery floors quiet and secure.
+              - generic [ref=f19e1462]:
+                - generic [ref=f19e1463]: David Chen
+                - img "Envato review" [ref=f19e1464]
+            - figure "Fatima Zahra Envato review" [ref=f19e1467]:
+              - img "Rated 4.7 out of 5" [ref=f19e1469]
+              - blockquote [ref=f19e1479]:
+                - paragraph [ref=f19e1480]: Meal planning for inpatients with diabetic or post-op diets was manual. Diet plan charts are assigned per patient now, so our dietitians and kitchen staff work from the same list.
+              - generic [ref=f19e1481]:
+                - generic [ref=f19e1482]: Fatima Zahra
+                - img "Envato review" [ref=f19e1483]
+            - figure "Henrik Lindgren Envato review" [ref=f19e1486]:
+              - img "Rated 3.8 out of 5" [ref=f19e1488]
+              - blockquote [ref=f19e1498]:
+                - paragraph [ref=f19e1499]: Consultation slots and operation theater bookings sync with Google Calendar. Surgeons and duty doctors always know their day schedule in advance.
+              - generic [ref=f19e1500]:
+                - generic [ref=f19e1501]: Henrik Lindgren
+                - img "Envato review" [ref=f19e1502]
+            - figure "Carlos Menendez Envato review" [ref=f19e1505]:
+              - img "Rated 4 out of 5" [ref=f19e1507]
+              - blockquote [ref=f19e1517]:
+                - paragraph [ref=f19e1518]: Patient valuables during surgery used to be kept in envelopes. Safe deposit lockers with numbered receipts give patients and their families complete peace of mind.
+              - generic [ref=f19e1519]:
+                - generic [ref=f19e1520]: Carlos Menendez
+                - img "Envato review" [ref=f19e1521]
+            - figure "Beatrice Mwangi Envato review" [ref=f19e1524]:
+              - img "Rated 4.9 out of 5" [ref=f19e1526]
+              - blockquote [ref=f19e1536]:
+                - paragraph [ref=f19e1537]: Counter billing for consultations, lab tests and pharmacy is unified now. Cashiers generate invoices in seconds and our daily collection tally is spotless.
+              - generic [ref=f19e1538]:
+                - generic [ref=f19e1539]: Beatrice Mwangi
+                - img "Envato review" [ref=f19e1540]
+            - figure "Nathan Ross Envato review" [ref=f19e1543]:
+              - img "Rated 4.5 out of 5" [ref=f19e1545]
+              - blockquote [ref=f19e1555]:
+                - paragraph [ref=f19e1556]: What sold us was paying once and owning the full source code. We run our hospital system on our own private server with zero recurring monthly fees.
+              - generic [ref=f19e1557]:
+                - generic [ref=f19e1558]: Nathan Ross
+                - img "Envato review" [ref=f19e1559]
+          - generic [aria-hidden] [ref=f19e1562]:
+            - figure [ref=f19e1563]:
+              - blockquote [ref=f19e1575]:
+                - paragraph [ref=f19e1576]: We admit dozens of patients every week across two branches. Every admission now has its doctor, bed allocation, lab requests and billing in one record.
+              - generic [ref=f19e1577]: Marcus Vance
+            - figure [ref=f19e1582]:
+              - blockquote [ref=f19e1594]:
+                - paragraph [ref=f19e1595]: Patients used to call the front desk just to check appointment times. A public booking link and one shared appointment calendar keep our waiting room organized.
+              - generic [ref=f19e1596]: Elena Rostova
+            - figure [ref=f19e1601]:
+              - blockquote [ref=f19e1613]:
+                - paragraph [ref=f19e1614]: Our diagnostic lab tests used to take hours of manual entry. Samples are logged at the counter and lab reports attach straight to the patient file now.
+              - generic [ref=f19e1615]: Julian Davies
+            - figure [ref=f19e1620]:
+              - blockquote [ref=f19e1632]:
+                - paragraph [ref=f19e1633]: Bed availability was tracked on a whiteboard by the nursing station. Now our team sees every vacant, occupied and reserved bed across all four wards.
+              - generic [ref=f19e1634]: Teresa Almonte
+            - figure [ref=f19e1639]:
+              - blockquote [ref=f19e1651]:
+                - paragraph [ref=f19e1652]: Blood bank units and donor records used to be a headache during emergencies. Blood groups, compatibility and expiry dates are visible in seconds.
+              - generic [ref=f19e1653]: Alistair Finch
+            - figure [ref=f19e1658]:
+              - blockquote [ref=f19e1670]:
+                - paragraph [ref=f19e1671]: Our eye clinic does vision exams and frame sales every day. Optical prescriptions and lens inventory now sit in the same system as patient records.
+              - generic [ref=f19e1672]: Neha Kapoor
+            - figure [ref=f19e1677]:
+              - blockquote [ref=f19e1689]:
+                - paragraph [ref=f19e1690]: Insurance paperwork used to delay patient discharge for hours. Policy details, claims and their payment status are all tracked in one place now.
+              - generic [ref=f19e1691]: Kenneth Connor
+            - figure [ref=f19e1696]:
+              - blockquote [ref=f19e1708]:
+                - paragraph [ref=f19e1709]: Doctor duty rosters and night shifts used to be messy. Biometric attendance syncs straight into the system, so shift hours are always accurate.
+              - generic [ref=f19e1710]: Ananya Sharma
+            - figure [ref=f19e1715]:
+              - blockquote [ref=f19e1727]:
+                - paragraph [ref=f19e1728]: Radiology scans and reports are linked directly to each patient ID. Doctors can review X-ray summaries and imaging notes without waiting for paper files.
+              - generic [ref=f19e1729]: Farah El-Masri
+            - figure [ref=f19e1734]:
+              - blockquote [ref=f19e1746]:
+                - paragraph [ref=f19e1747]: Ward visitors used to wander in during rest hours. Digital visitor badges and check-ins at the reception keep our recovery floors quiet and secure.
+              - generic [ref=f19e1748]: David Chen
+            - figure [ref=f19e1753]:
+              - blockquote [ref=f19e1765]:
+                - paragraph [ref=f19e1766]: Meal planning for inpatients with diabetic or post-op diets was manual. Diet plan charts are assigned per patient now, so our dietitians and kitchen staff work from the same list.
+              - generic [ref=f19e1767]: Fatima Zahra
+            - figure [ref=f19e1772]:
+              - blockquote [ref=f19e1784]:
+                - paragraph [ref=f19e1785]: Consultation slots and operation theater bookings sync with Google Calendar. Surgeons and duty doctors always know their day schedule in advance.
+              - generic [ref=f19e1786]: Henrik Lindgren
+            - figure [ref=f19e1791]:
+              - blockquote [ref=f19e1803]:
+                - paragraph [ref=f19e1804]: Patient valuables during surgery used to be kept in envelopes. Safe deposit lockers with numbered receipts give patients and their families complete peace of mind.
+              - generic [ref=f19e1805]: Carlos Menendez
+            - figure [ref=f19e1810]:
+              - blockquote [ref=f19e1822]:
+                - paragraph [ref=f19e1823]: Counter billing for consultations, lab tests and pharmacy is unified now. Cashiers generate invoices in seconds and our daily collection tally is spotless.
+              - generic [ref=f19e1824]: Beatrice Mwangi
+            - figure [ref=f19e1829]:
+              - blockquote [ref=f19e1841]:
+                - paragraph [ref=f19e1842]: What sold us was paying once and owning the full source code. We run our hospital system on our own private server with zero recurring monthly fees.
+              - generic [ref=f19e1843]: Nathan Ross
+        - button "Pause testimonials" [ref=f19e1850] [cursor=pointer]
+      - generic [ref=f19e1856]:
+        - img "Hospital Management Software" [ref=f19e1857]
+        - generic [ref=f19e1858]:
+          - heading "Ready to Run Your Hospital With One Complete Hospital Management System?" [level=2] [ref=f19e1859]
+          - paragraph [ref=f19e1860]: One-Time Payment. Lifetime Access. Everything Included.
+          - generic [ref=f19e1861]:
+            - link "Get The Software" [ref=f19e1862] [cursor=pointer]:
+              - /url: javascript:void(0);
+            - link "View Live Demo" [ref=f19e1868] [cursor=pointer]:
+              - /url: https://dash-demo.workdo.io/demo-login?addons=HospitalManagement,MedicalLabManagement,BloodBank,RadiologyManagement,OpticalAndEyeCareCenter,DietAndNutritionConsultant,Appointment,VisitorManagement,LockerAndSafeDeposit,InsuranceManagement,BiometricAttendance,WhatsAppMessenger,Calendar,SmartDashboardAnalytics,AIBusinessAdvisor,SmartReports,NoticeBoard,SuggestionBox
+          - generic [ref=f19e1872]:
+            - generic [ref=f19e1873]: One-Time Payment
+            - generic [ref=f19e1877]: Lifetime Access
+            - generic [ref=f19e1882]: Free Updates
+            - generic [ref=f19e1889]: Premium Support
+    - contentinfo [ref=f19e1894]:
+      - generic [ref=f19e1897]:
+        - generic [ref=f19e1898]:
+          - link [ref=f19e1900] [cursor=pointer]:
+            - /url: https://workdo.io/
+            - img "WorkDo" [ref=f19e1901]
+          - paragraph [ref=f19e1902]: We build modern web tools to help you jump-start your daily business work and improve productivity.
+          - generic [ref=f19e1903]:
+            - paragraph [ref=f19e1904]: Ask AI how WorkDo helps Businesses grow
+            - generic [ref=f19e1905]:
+              - link [ref=f19e1906] [cursor=pointer]:
+                - /url: https://chat.openai.com/?q=Help%20me%20understand%20what%20makes%20WorkDo%20a%20powerful%2C%20all-in-one%20SaaS%20and%20modular%20ERP%20platform%20that%20simplifies%20operations%20and%20supports%20business%20growth.%20Based%20on%20workdo.io%2C%20explain%20how%20WorkDo%20unifies%20core%20functions%20like%20CRM%2C%20HRM%2C%20accounting%2C%20and%20project%20management%20into%20one%20system%2C%20reducing%20tool%20fragmentation%20and%20complexity%2C%20and%20how%20its%20modular%20add-ons%20and%20flexible%20architecture%20help%20businesses%20automate%20workflows%2C%20improve%20efficiency%2C%20and%20scale%20effectively%20while%20driving%20better%20decisions%20and%20long-term%20growth.
+                - img "chatgpt logo" [ref=f19e1907]
+              - link [ref=f19e1908] [cursor=pointer]:
+                - /url: https://www.perplexity.ai/search?q=Help%20me%20understand%20what%20makes%20WorkDo%20a%20powerful%2C%20all-in-one%20SaaS%20and%20modular%20ERP%20platform%20that%20simplifies%20operations%20and%20supports%20business%20growth.%20Based%20on%20workdo.io%2C%20explain%20how%20WorkDo%20unifies%20core%20functions%20like%20CRM%2C%20HRM%2C%20accounting%2C%20and%20project%20management%20into%20one%20system%2C%20reducing%20tool%20fragmentation%20and%20complexity%2C%20and%20how%20its%20modular%20add-ons%20and%20flexible%20architecture%20help%20businesses%20automate%20workflows%2C%20improve%20efficiency%2C%20and%20scale%20effectively%20while%20driving%20better%20decisions%20and%20long-term%20growth.
+                - img "perplexity logo" [ref=f19e1909]
+              - link [ref=f19e1910] [cursor=pointer]:
+                - /url: https://claude.ai/new?q=Help%20me%20understand%20what%20makes%20WorkDo%20a%20powerful%2C%20all-in-one%20SaaS%20and%20modular%20ERP%20platform%20that%20simplifies%20operations%20and%20supports%20business%20growth.%20Based%20on%20workdo.io%2C%20explain%20how%20WorkDo%20unifies%20core%20functions%20like%20CRM%2C%20HRM%2C%20accounting%2C%20and%20project%20management%20into%20one%20system%2C%20reducing%20tool%20fragmentation%20and%20complexity%2C%20and%20how%20its%20modular%20add-ons%20and%20flexible%20architecture%20help%20businesses%20automate%20workflows%2C%20improve%20efficiency%2C%20and%20scale%20effectively%20while%20driving%20better%20decisions%20and%20long-term%20growth.
+                - img "claud logo" [ref=f19e1911]
+              - link [ref=f19e1912] [cursor=pointer]:
+                - /url: https://www.google.com/search?udm=50&q=Help%20me%20understand%20what%20makes%20WorkDo%20a%20powerful%2C%20all-in-one%20SaaS%20and%20modular%20ERP%20platform%20that%20simplifies%20operations%20and%20supports%20business%20growth.%20Based%20on%20workdo.io%2C%20explain%20how%20WorkDo%20unifies%20core%20functions%20like%20CRM%2C%20HRM%2C%20accounting%2C%20and%20project%20management%20into%20one%20system%2C%20reducing%20tool%20fragmentation%20and%20complexity%2C%20and%20how%20its%20modular%20add-ons%20and%20flexible%20architecture%20help%20businesses%20automate%20workflows%2C%20improve%20efficiency%2C%20and%20scale%20effectively%20while%20driving%20better%20decisions%20and%20long-term%20growth.
+                - img "gemini logo" [ref=f19e1913]
+              - link [ref=f19e1914] [cursor=pointer]:
+                - /url: https://x.com/i/grok?text=Help%20me%20understand%20what%20makes%20WorkDo%20a%20powerful%2C%20all-in-one%20SaaS%20and%20modular%20ERP%20platform%20that%20simplifies%20operations%20and%20supports%20business%20growth.%20Based%20on%20workdo.io%2C%20explain%20how%20WorkDo%20unifies%20core%20functions%20like%20CRM%2C%20HRM%2C%20accounting%2C%20and%20project%20management%20into%20one%20system%2C%20reducing%20tool%20fragmentation%20and%20complexity%2C%20and%20how%20its%20modular%20add-ons%20and%20flexible%20architecture%20help%20businesses%20automate%20workflows%2C%20improve%20efficiency%2C%20and%20scale%20effectively%20while%20driving%20better%20decisions%20and%20long-term%20growth.
+                - img "grok logo" [ref=f19e1915]
+          - generic [ref=f19e1916]:
+            - link [ref=f19e1917] [cursor=pointer]:
+              - /url: https://codecanyon.net/user/workdo/portfolio
+              - img "codecanyon button" [ref=f19e1918]
+            - link [ref=f19e1919] [cursor=pointer]:
+              - /url: https://themeforest.net/user/workdo/portfolio
+              - img "codecanyon button" [ref=f19e1920]
+        - generic [ref=f19e1921]:
+          - heading "Quick Links" [level=4] [ref=f19e1922]
+          - list [ref=f19e1923]:
+            - listitem [ref=f19e1924]:
+              - link "Custom Development" [ref=f19e1925] [cursor=pointer]:
+                - /url: https://workdo.io/development-request/
+            - listitem [ref=f19e1926]:
+              - link "Installation" [ref=f19e1927] [cursor=pointer]:
+                - /url: https://workdo.io/software-installation-services/
+            - listitem [ref=f19e1928]:
+              - link "About Us" [ref=f19e1929] [cursor=pointer]:
+                - /url: https://workdo.io/about-us/
+            - listitem [ref=f19e1930]:
+              - link "Documentation" [ref=f19e1931] [cursor=pointer]:
+                - /url: https://workdo.io/documents/
+            - listitem [ref=f19e1932]:
+              - link "Blogs" [ref=f19e1933] [cursor=pointer]:
+                - /url: https://workdo.io/blogs/
+            - listitem [ref=f19e1934]:
+              - link "Shop" [ref=f19e1935] [cursor=pointer]:
+                - /url: https://workdo.io/shop/
+        - generic [ref=f19e1936]:
+          - heading "Support" [level=4] [ref=f19e1937]
+          - list [ref=f19e1938]:
+            - listitem [ref=f19e1939]:
+              - link "Contact Us" [ref=f19e1940] [cursor=pointer]:
+                - /url: https://workdo.io/contact-us/
+            - listitem [ref=f19e1941]:
+              - link "Get Support" [ref=f19e1942] [cursor=pointer]:
+                - /url: https://support.workdo.io/
+            - listitem [ref=f19e1943]:
+              - link "Terms & Conditions" [ref=f19e1944] [cursor=pointer]:
+                - /url: https://workdo.io/privacy-policy/
+            - listitem [ref=f19e1945]:
+              - link "Refund Policy" [ref=f19e1946] [cursor=pointer]:
+                - /url: https://workdo.io/refund-policy/
+            - listitem [ref=f19e1947]:
+              - link "Cookie Policy" [ref=f19e1948] [cursor=pointer]:
+                - /url: https://workdo.io/cookie-policy/
+            - listitem [ref=f19e1949]:
+              - link "License & Activation" [ref=f19e1950] [cursor=pointer]:
+                - /url: https://workdo.io/license-activation/
+        - generic [ref=f19e1951]:
+          - heading "Achievements" [level=4] [ref=f19e1952]
+          - paragraph [ref=f19e1953]: Power Elite Author On Envato
+          - generic [ref=f19e1956]:
+            - generic "Power Elite Author" [ref=f19e1957]:
+              - img "Power Elite" [ref=f19e1958]
+            - 'generic "Featured Author: Hall of Fame" [ref=f19e1959]':
+              - img "Was Featured" [ref=f19e1960]
+            - generic "Had an item featured on Envato Market" [ref=f19e1961]:
+              - img "Had Featured Item" [ref=f19e1962]
+            - generic "Free File of the Month" [ref=f19e1963]:
+              - img "Had Free File" [ref=f19e1964]
+            - generic "Author Level 12" [ref=f19e1965]:
+              - img "Author Level 12" [ref=f19e1966]
+            - generic "One Billion Milestone" [ref=f19e1967]:
+              - img "One Billion Milestone" [ref=f19e1968]
+            - generic "Had Trending Item" [ref=f19e1969]:
+              - img "Had Trending Item" [ref=f19e1970]
+            - generic "Weekly Top Seller" [ref=f19e1971]:
+              - img "Weekly Top Seller" [ref=f19e1972]
+            - generic "Exclusive Author" [ref=f19e1973]:
+              - img "Exclusive Author" [ref=f19e1974]
+            - generic "Community Health" [ref=f19e1975]:
+              - img "Community Health" [ref=f19e1976]
+            - generic "Author Score Level 2" [ref=f19e1977]:
+              - img "Author Score Level 2" [ref=f19e1978]
+            - 'generic "Veteran Level 9: 9+ Years on Envato" [ref=f19e1979]':
+              - img "Veteran Level 9" [ref=f19e1980]
+      - generic [ref=f19e1983]:
+        - paragraph [ref=f19e1984]:
+          - text: © 2026
+          - link "WorkDo FZCO" [ref=f19e1985] [cursor=pointer]:
+            - /url: https://workdo.io
+          - text: . All rights reserved. Crafted with
+          - img "❤️" [ref=f19e1986]
+          - text: to enhance the web.
+        - generic [ref=f19e1987]:
+          - paragraph [ref=f19e1988]: "Secure payment with:"
+          - generic [ref=f19e1989]:
+            - img "stripe" [ref=f19e1990]
+            - img "paypal" [ref=f19e1991]
+        - list [ref=f19e1992]:
+          - listitem [ref=f19e1993]:
+            - link [ref=f19e1994] [cursor=pointer]:
+              - /url: https://www.facebook.com/workdo.io/
+              - img "facebook" [ref=f19e1995]
+          - listitem [ref=f19e1996]:
+            - link [ref=f19e1997] [cursor=pointer]:
+              - /url: https://www.instagram.com/workdo.io/
+              - img "instagram" [ref=f19e1998]
+          - listitem [ref=f19e1999]:
+            - link [ref=f19e2000] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/work-do/
+              - img "linkedin" [ref=f19e2001]
+          - listitem [ref=f19e2002]:
+            - link [ref=f19e2003] [cursor=pointer]:
+              - /url: https://www.youtube.com/@WorkDo.MarketPlace
+              - img "youtube" [ref=f19e2004]
+  - status [ref=f19e2005]

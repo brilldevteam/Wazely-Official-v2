@@ -24,6 +24,18 @@ export const siteConfig = {
     instagram: "https://www.instagram.com/wazely.io/",
   },
   legalLinks: {},
+  // Contact Us section (homepage). CONFIRM these before going live:
+  // - email: the form opens the visitor's email app addressed to this inbox.
+  // - whatsapp: international number, digits only (e.g. "97412345678").
+  //   Leave empty to hide the WhatsApp card.
+  // - phoneDisplay: how the number is shown on the card.
+  // - location: office city and country.
+  contact: {
+    email: "hello@wazely.io",
+    whatsapp: "",
+    phoneDisplay: "",
+    location: "Doha, Qatar",
+  },
 } as const;
 
 export function getSiteUrl() {
